@@ -1,0 +1,10 @@
+c:\users\howardx.kvalinc\documents\visual studio 2015\Projects\ProductionScheduleSheet\MachineInfo\bin\Debug\MachineInfo.dll.config
+c:\users\howardx.kvalinc\documents\visual studio 2015\Projects\ProductionScheduleSheet\MachineInfo\bin\Debug\MachineInfo.dll
+c:\users\howardx.kvalinc\documents\visual studio 2015\Projects\ProductionScheduleSheet\MachineInfo\bin\Debug\MachineInfo.pdb
+c:\users\howardx.kvalinc\documents\visual studio 2015\Projects\ProductionScheduleSheet\MachineInfo\bin\Debug\EntityFramework.dll
+c:\users\howardx.kvalinc\documents\visual studio 2015\Projects\ProductionScheduleSheet\MachineInfo\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\howardx.kvalinc\documents\visual studio 2015\Projects\ProductionScheduleSheet\MachineInfo\bin\Debug\EntityFramework.xml
+c:\users\howardx.kvalinc\documents\visual studio 2015\Projects\ProductionScheduleSheet\MachineInfo\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\howardx.kvalinc\documents\visual studio 2015\Projects\ProductionScheduleSheet\MachineInfo\obj\Debug\MachineInfo.csprojResolveAssemblyReference.cache
+c:\users\howardx.kvalinc\documents\visual studio 2015\Projects\ProductionScheduleSheet\MachineInfo\obj\Debug\MachineInfo.dll
+c:\users\howardx.kvalinc\documents\visual studio 2015\Projects\ProductionScheduleSheet\MachineInfo\obj\Debug\MachineInfo.pdb

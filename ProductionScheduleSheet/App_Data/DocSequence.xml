@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BaseSelection  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SelectItems>
+    <SelectItem id="0">
+      <Value>0-not started</Value>
+    </SelectItem>
+    <SelectItem id="1">
+      <Value>1-In Process</Value>
+    </SelectItem>
+    <SelectItem id="2">
+      <Value>2-Ready for Review</Value>
+    </SelectItem>
+    <SelectItem id="3">
+      <Value>3-Final Update</Value>
+    </SelectItem>
+    <SelectItem id="4">
+      <Value>4-Done</Value>
+    </SelectItem>
+  </SelectItems>
+</BaseSelection>

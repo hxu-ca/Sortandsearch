@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MachineInfoModelStoreContainer" CdmEntityContainer="ProductEntities">
+    <EntitySetMapping Name="MachineInfoes">
+      <EntityTypeMapping TypeName="MachineInfoModel.MachineInfo">
+        <MappingFragment StoreEntitySet="MachineInfo">
+          <ScalarProperty Name="MachinePartNum" ColumnName="MachinePartNum" />
+          <ScalarProperty Name="SerialNumber" ColumnName="SerialNumber" />
+          <ScalarProperty Name="MachineStatus" ColumnName="MachineStatus" />
+          <ScalarProperty Name="JobNum" ColumnName="JobNum" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="ProgramNum" ColumnName="ProgramNum" />
+          <ScalarProperty Name="ElecPrint" ColumnName="ElecPrint" />
+          <ScalarProperty Name="SinglePHVolt" ColumnName="SinglePHVolt" />
+          <ScalarProperty Name="SinglePHAmp" ColumnName="SinglePHAmp" />
+          <ScalarProperty Name="ThreePHVolt" ColumnName="ThreePHVolt" />
+          <ScalarProperty Name="ThreePHAmp" ColumnName="ThreePHAmp" />
+          <ScalarProperty Name="Notes" ColumnName="Notes" />
+          <ScalarProperty Name="WarrantyExpDate" ColumnName="WarrantyExpDate" />
+          <ScalarProperty Name="OrderNum" ColumnName="OrderNum" />
+          <ScalarProperty Name="OrderLine" ColumnName="OrderLine" />
+          <ScalarProperty Name="ProdQty" ColumnName="ProdQty" />
+          <ScalarProperty Name="ShipDate" ColumnName="ShipDate" />
+          <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="ShipToCustomerID" ColumnName="ShipToCustomerID" />
+          <ScalarProperty Name="ShipToCustomerName" ColumnName="ShipToCustomerName" />
+          <ScalarProperty Name="AirPrint" ColumnName="AirPrint" />
+          <ScalarProperty Name="CFM" ColumnName="CFM" />
+          <ScalarProperty Name="LineID" ColumnName="LineID" />
+          <ScalarProperty Name="OrderComment" ColumnName="OrderComment" />
+          <ScalarProperty Name="QuoteNum" ColumnName="QuoteNum" />
+          <ScalarProperty Name="OrderHeadComment" ColumnName="OrderHeadComment" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BaseSelection  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SelectItems>
+    <SelectItem id="0">
+      <Value>0-not started</Value>
+    </SelectItem>
+    <SelectItem id="1">
+      <Value>1-Panel BOM</Value>
+    </SelectItem>
+    <SelectItem id="2">
+      <Value>2-Machine BOM</Value>
+    </SelectItem>
+    <SelectItem id="3">
+      <Value>3-Final BOM</Value>
+    </SelectItem>
+  </SelectItems>
+</BaseSelection>

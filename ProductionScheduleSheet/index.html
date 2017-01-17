@@ -1,0 +1,278 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/ngPrint.css" rel="stylesheet" />
+    <link href="Content/Site.css" rel="stylesheet" />  
+    <link href="Content/themes/base/core.css" rel="stylesheet" />
+    <link href="Content/themes/base/jquery-ui.css" rel="stylesheet" />
+    <link href="Content/themes/base/theme.css" rel="stylesheet" />
+    <link href="Content/themes/base/dialog.css" rel="stylesheet" />
+    <link href="Content/themes/base/button.css" rel="stylesheet" />
+    <link href="Content/loading-bar.css" rel="stylesheet" />
+    <script src="Scripts/modernizr-2.6.2.js"></script>
+</head>
+<body style="padding:0px;">
+    <div class="container body-content">
+        <hr />
+        <div ng-app="app.machine" ng-init="servicePath='@url'">
+            <div ng-controller="machineVM" id="schedulePage">
+                <div class="no-print" style="width:1433px; text-align:center"><h2>Production Schedule</h2></div>
+                <form>
+                    <div class="form-group no-print">
+                        <div class="input-group">
+                            <div class="input-group-addon"><span class="glyphicon glyphicon-search"></span></div>
+                            <input type="text" class="form-control" placeholder="Search Schedule" ng-model="searching">
+                        </div>
+                    </div>
+                </form>
+                <div class="no-print" style="width:1433px; text-align:right; height:10px; position:relative; top:-40px"><button class="btn btn-primary" onclick="javascript:window.print()"><span class="glyphicon glyphicon-print"></span></button></div>
+                <div id="sheets-viewport" class="widget-viewport no-print">
+                    <p class="no-print"> * Click header to sort;  ** Uncheck the checkbox under the header to hide the column to print; *** Uncheck these checkboxes to hide the column to display. 
+                        <input style="margin:5px" type="checkbox" ng-model="displayFlags[0]" /><input style="margin:5px" type="checkbox" ng-model="displayFlags[1]" /><input style="margin:5px" type="checkbox" ng-model="displayFlags[2]" /><input style="margin:5px" type="checkbox" ng-model="displayFlags[3]" /><input style="margin:5px" type="checkbox" ng-model="displayFlags[4]" /><input style="margin:5px" type="checkbox" ng-model="displayFlags[5]" /><input style="margin:5px" type="checkbox" ng-model="displayFlags[6]" /><input style="margin:5px" type="checkbox" ng-model="displayFlags[7]" /><input style="margin:5px" type="checkbox" ng-model="displayFlags[8]" /><input style="margin:5px" type="checkbox" ng-model="displayFlags[9]" /><input style="margin:5px" type="checkbox" ng-model="displayFlags[10]" /><input style="margin:5px" type="checkbox" ng-model="displayFlags[11]" /><input style="margin:5px" type="checkbox" ng-model="displayFlags[12]" /><input style="margin:5px" type="checkbox" ng-model="displayFlags[13]" /><input style="margin:5px" type="checkbox" ng-model="displayFlags[14]" /></p>
+                    <div class="ritz grid-container " dir="ltr">
+                        <table class="waffle table table-condensed" cellspacing="0" cellpadding="0">
+                            <thead>
+                                <tr>
+                                    <th ng-show="displayFlags[0]" style="text-align:center;width:93px" class="header-shim s0"><a style="color:white;" href="#" ng-click="sortType = 'ShipDate'; sortReverse = !sortReverse">Ship Date</a></th>
+                                    <th ng-show="displayFlags[1]" style="text-align:center;width:114px" class="header-shim s1"><a style="color:white;" href="#" ng-click="sortType = 'WarningDate'; sortReverse = !sortReverse">12-Week Warning</a></th>
+                                    <th ng-show="displayFlags[2]" style="text-align:center;width:250px" class="header-shim s2"><a style="color:white;" href="#" ng-click="sortType = 'CustomerName'; sortReverse = !sortReverse">Customer</a></th>
+                                    <th ng-show="displayFlags[3]" style="text-align:center;width:150px" class="header-shim s2"><a style="color:white;" href="#" ng-click="sortType = 'MachinePartNum'; sortReverse = !sortReverse">Machine</a></th>
+                                    <th ng-show="displayFlags[4]" style="text-align:center;width:100px" class="header-shim s2"><a style="color:white;" href="#" ng-click="sortType = 'SerialNumber'; sortReverse = !sortReverse">Serial</a></th>
+                                    <th ng-show="displayFlags[5]" style="text-align:center;width:80px" class="header-shim s2"><a style="color:white;" href="#" ng-click="sortType = 'LineID'; sortReverse = !sortReverse">Line ID</a></th>
+                                    <th ng-show="displayFlags[6]" style="text-align:center;width:60px" class="header-shim s2"><a style="color:white;" href="#" ng-click="sortType = 'Contact'; sortReverse = !sortReverse">Contract</a></th>
+                                    <th ng-show="displayFlags[7]" style="text-align:center;width:50px" class="header-shim s2"><a style="color:white;" href="#" ng-click="sortType = 'JobNum'; sortReverse = !sortReverse">Job</a></th>
+                                    <th ng-show="displayFlags[8]" style="text-align:center;width:86px" class="header-shim s2"><a style="color:white;" href="#" ng-click="sortType = 'ReviewState'; sortReverse = !sortReverse">Review State</a></th>
+                                    <th ng-show="displayFlags[9]" style="text-align:center;width:130px" class="header-shim s2"><a style="color:white;" href="#" ng-click="sortType = 'Documentation'; sortReverse = !sortReverse">Documentation</a></th>
+                                    <th ng-show="displayFlags[10]" style="text-align:center;width:110px" class="header-shim s2"><a style="color:white;" href="#" ng-click="sortType = 'BOMState'; sortReverse = !sortReverse">BOM State</a></th>
+                                    <th ng-show="displayFlags[11]" style="text-align:center;width:130px" class="header-shim s2"><a style="color:white;" href="#" ng-click="sortType = 'EprintState'; sortReverse = !sortReverse">Eprint State</a></th>
+                                    <th ng-show="displayFlags[12]" style="text-align:center;width:130px" class="header-shim s2"><a style="color:white;" href="#" ng-click="sortType = 'EprintOwner'; sortReverse = !sortReverse">Eprint Owner</a></th>
+                                    <th ng-show="displayFlags[13]" style="text-align:center;width:130px" class="header-shim s2"><a style="color:white;" href="#" ng-click="sortType = 'ProgramState'; sortReverse = !sortReverse">Program State</a></th>
+                                    <th ng-show="displayFlags[14]" style="text-align:center;width:130px" class="header-shim s2"><a style="color:white;" href="#" ng-click="sortType = 'ProgramOwner'; sortReverse = !sortReverse">Program Owner</a></th>
+                                    <th style="text-align:center;width:30px" class="header-shim s2"><br /></th>
+                                </tr>
+                                <tr>
+                                    <th ng-show="displayFlags[0]" style="text-align:center" class="header-shim s0"><input type="checkbox" ng-model="printFlags[0]" /></th>
+                                    <th ng-show="displayFlags[1]" style="text-align:center" class="header-shim s1"><input type="checkbox" ng-model="printFlags[1]" /></th>
+                                    <th ng-show="displayFlags[2]" style="text-align:center" class="header-shim s2"><input type="checkbox" ng-model="printFlags[2]" /></th>
+                                    <th ng-show="displayFlags[3]" style="text-align:center" class="header-shim s2"><input type="checkbox" ng-model="printFlags[3]" /></th>
+                                    <th ng-show="displayFlags[4]" style="text-align:center" class="header-shim s2"><input type="checkbox" ng-model="printFlags[4]" /></th>
+                                    <th ng-show="displayFlags[5]" style="text-align:center" class="header-shim s2"><input type="checkbox" ng-model="printFlags[5]" /></th>
+                                    <th ng-show="displayFlags[6]" style="text-align:center" class="header-shim s2"><input type="checkbox" ng-model="printFlags[6]" /></th>
+                                    <th ng-show="displayFlags[7]" style="text-align:center" class="header-shim s2"><input type="checkbox" ng-model="printFlags[7]" /></th>
+                                    <th ng-show="displayFlags[8]" style="text-align:center" class="header-shim s2"><input type="checkbox" ng-model="printFlags[8]" /></th>
+                                    <th ng-show="displayFlags[9]" style="text-align:center" class="header-shim s2"><input type="checkbox" ng-model="printFlags[9]" /></th>
+                                    <th ng-show="displayFlags[10]" style="text-align:center" class="header-shim s2"><input type="checkbox" ng-model="printFlags[10]" /></th>
+                                    <th ng-show="displayFlags[11]" style="text-align:center" class="header-shim s2"><input type="checkbox" ng-model="printFlags[11]" /></th>
+                                    <th ng-show="displayFlags[12]" style="text-align:center" class="header-shim s2"><input type="checkbox" ng-model="printFlags[12]" /></th>
+                                    <th ng-show="displayFlags[13]" style="text-align:center" class="header-shim s2"><input type="checkbox" ng-model="printFlags[13]" /></th>
+                                    <th ng-show="displayFlags[14]" style="text-align:center" class="header-shim s2"><input type="checkbox" ng-model="printFlags[14]" /></th>
+                                    <th class="header-shim s2"><br /></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <!--<tr style="height:20px;" ng-repeat="f in Machine.existing | orderBy:sortType:sortReverse | filter: searching" ng-class="{'selectedR':$index==selectedRow}">-->
+                                <tr style="height:20px;" ng-repeat="f in Machine.existing | orderBy:sortType:sortReverse | filter: searching">
+                                    <td style="text-align:center;" ng-show="displayFlags[0]">{{f.ShipDate | date: 'MM/dd/yyyy'}}</td>
+                                    <td style="text-align:center" ng-show="displayFlags[1]" ng-class="{'1': 'run-bg'}[f.overDt]">
+                                        {{f.WarningDate | date: 'MM/dd/yyyy'}}
+                                    </td>
+                                    <td ng-show="displayFlags[2]">
+                                        {{f.CustomerName}}
+                                    </td>
+                                    <td ng-show="displayFlags[3]">
+                                        {{f.MachinePartNum}}
+                                    </td>
+                                    <td ng-show="displayFlags[4]">
+                                        {{f.SerialNumber}}
+                                    </td>
+                                    <td ng-show="displayFlags[5]">
+                                        {{f.LineID}}
+                                    </td>
+                                    <td ng-show="displayFlags[6]">
+                                        {{f.Contact}}
+                                    </td>
+                                    <td ng-show="displayFlags[7]">
+                                        {{f.JobNum}}
+                                    </td>
+                                    <td ng-show="displayFlags[8]" ng-class="{'0':'start-bg', '1':'complete-bg', '2':'run-bg'}[f.RevId]">
+                                        {{f.ReviewState}}
+                                    </td>
+                                    <td ng-show="displayFlags[9]" ng-class="{'0':'start-bg', '1':'run-bg', '2':'run-bg', '3':'run-bg', '4':'complete-bg'}[f.DocId]">
+                                        {{f.Documentation}}
+                                    </td>
+                                    <td ng-show="displayFlags[10]" ng-class="{'0':'start-bg', '1':'run-bg', '2':'run-bg', '3':'complete-bg'}[f.BomId]">
+                                        {{f.BOMState}}
+                                    </td>
+                                    <td ng-show="displayFlags[11]" ng-class="{'0':'start-bg', '1':'run-bg', '2':'run-bg', '3':'run-bg', '4':'complete-bg'}[f.EprId]">
+                                        {{f.EprintState}}
+                                    </td>
+                                    <td ng-show="displayFlags[12]">
+                                        {{f.EprintOwner}}
+                                    </td>
+                                    <td ng-show="displayFlags[13]" ng-class="{'0':'start-bg', '1':'run-bg', '2':'run-bg', '3':'run-bg', '4':'run-bg', '5':'run-bg', '6':'run-bg', '7':'complete-bg'}[f.PrgId]">
+                                        {{f.ProgramState}}
+                                    </td>
+                                    <td ng-show="displayFlags[14]">
+                                        {{f.ProgramOwner}}
+                                    </td>
+                                    <td><button class="btn btn-primary btn-sm" style="padding: 0px 5px;" ng-click="Edit(f.JobNum)"><small><span class="glyphicon glyphicon-pencil"></span></small></button></td>
+                                </tr>
+                        </table>
+                    </div>
+                </div>
+
+                <div id="printSection">
+                    <table class="table table-condensed table-bordered" cellspacing="0" cellpadding="0" style="width:auto">
+                        <thead>
+                            <tr>
+                                <th style="background-color:#5b9bd5 !important; color:white !important; white-space: nowrap !important; text-align:center; width:93px" ng-show="printFlags[0]">Ship Date</th>
+                                <th style="background-color:#5b9bd5 !important; color:white !important; white-space: nowrap !important; text-align:center; width:120px" ng-show="printFlags[1]">12-Wk Warning</th>
+                                <th style="background-color:#5b9bd5 !important; color:white !important; white-space: nowrap !important; text-align:center; width:260px" ng-show="printFlags[2]">Customer</th>
+                                <th style="background-color:#5b9bd5 !important; color:white !important; white-space: nowrap !important; text-align:center; width:150px" ng-show="printFlags[3]">Machine</th>
+                                <th style="background-color:#5b9bd5 !important; color:white !important; white-space: nowrap !important; text-align:center; width:120px" ng-show="printFlags[4]">Serial</th>
+                                <th style="background-color:#5b9bd5 !important; color:white !important; white-space: nowrap !important; text-align:center; width:80px" ng-show="printFlags[5]">Line ID</th>
+                                <th style="background-color:#5b9bd5 !important; color:white !important; white-space: nowrap !important; text-align:center; width:60px" ng-show="printFlags[6]">Contract</th>
+                                <th style="background-color:#5b9bd5 !important; color:white !important; white-space: nowrap !important; text-align:center; width:50px" ng-show="printFlags[7]">Job</th>
+                                <th style="background-color:#5b9bd5 !important; color:white !important; white-space: nowrap !important; text-align:center; width:120px" ng-show="printFlags[8]">Review State</th>
+                                <th style="background-color:#5b9bd5 !important; color:white !important; white-space: nowrap !important; text-align:center; width:150px" ng-show="printFlags[9]">Documentation</th>
+                                <th style="background-color:#5b9bd5 !important; color:white !important; white-space: nowrap !important; text-align:center; width:150px" ng-show="printFlags[10]">BOM State</th>
+                                <th style="background-color:#5b9bd5 !important; color:white !important; white-space: nowrap !important; text-align:center; width:160px" ng-show="printFlags[11]">Eprint State</th>
+                                <th style="background-color:#5b9bd5 !important; color:white !important; white-space: nowrap !important; text-align:center; width:100px" ng-show="printFlags[12]">Eprint Owner</th>
+                                <th style="background-color:#5b9bd5 !important; color:white !important; white-space: nowrap !important; text-align:center; width:160px" ng-show="printFlags[13]">Program State</th>
+                                <th style="background-color:#5b9bd5 !important; color:white !important; white-space: nowrap !important; text-align:center; width:100px" ng-show="printFlags[14]">Program Owner</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr style="height:20px;" ng-repeat="f in Machine.existing | orderBy:sortType:sortReverse | filter: searching" ng-class="{'selectedR':$index==selectedRow}" ng-click="rowHighilited($index)">
+                                <td ng-show="printFlags[0]">{{f.ShipDate | date: 'MM/dd/yyyy'}}</td>
+                                <td ng-show="printFlags[1]">
+                                    {{f.WarningDate | date: 'MM/dd/yyyy'}}
+                                </td>
+                                <td ng-show="printFlags[2]">
+                                    {{f.CustomerName}}
+                                </td>
+                                <td ng-show="printFlags[3]">
+                                    {{f.MachinePartNum}}
+                                </td>
+                                <td ng-show="printFlags[4]">
+                                    {{f.SerialNumber}}
+                                </td>
+                                <td ng-show="printFlags[5]">
+                                    {{f.LineID}}
+                                </td>
+                                <td ng-show="printFlags[6]">
+                                    {{f.Contact}}
+                                </td>
+                                <td ng-show="printFlags[7]">
+                                    {{f.JobNum}}
+                                </td>
+                                <td ng-show="printFlags[8]"  ng-class="{'0':'start-bg', '1':'complete-bg', '2':'run-bg'}[f.RevId]">
+                                    {{f.ReviewState}}
+                                </td>
+                                <td ng-show="printFlags[9]">
+                                    {{f.Documentation}}
+                                </td>
+                                <td ng-show="printFlags[10]">
+                                    {{f.BOMState}}
+                                </td>
+                                <td ng-show="printFlags[11]">
+                                    {{f.EprintState}}
+                                </td>
+                                <td ng-show="printFlags[12]">
+                                    {{f.EprintOwner}}
+                                </td>
+                                <td ng-show="printFlags[13]">
+                                    {{f.ProgramState}}
+                                </td>
+                                <td ng-show="printFlags[14]">
+                                    {{f.ProgramOwner}}
+                                </td>
+                            </tr>
+                    </table>
+                </div>
+
+                <div id="editDialog" class="ui-widget" style="display:none" title="Edit Schedule Row">
+                    <table id="editTable" class="table">
+                        <tr><td><label class="form-control-static">Ship Date:</label></td><td style="padding-top:15px">{{Machine.editRow.ShipDate | date: 'MM/dd/yyyy'}}</td></tr>
+                        <tr><td><label class="form-control-static">12-Week Warning:</label></td><td><input class="form-control" type="text" mo-date-input="L" ng-model="Machine.editRow.WarningDate" datepicker /></td></tr>
+                        @*
+                        <tr><td><label class="form-control-static">Customer:</label></td><td style="padding-top:15px">{{Machine.editRow.CustomerName}}</td></tr>*@
+                        <tr><td><label class="form-control-static">Machine:</label></td><td style="padding-top:15px">{{Machine.editRow.MachinePartNum}}</td></tr>
+                        <tr><td><label class="form-control-static">Serial:</label></td><td style="padding-top:15px">{{Machine.editRow.SerialNumber}}</td></tr>
+                        @*
+                        <tr><td><label class="form-control-static">Line ID:</label></td><td style="padding-top:15px">{{Machine.editRow.LineID}}</td></tr>
+                        <tr><td><label class="form-control-static">Contract:</label></td><td style="padding-top:15px">{{Machine.editRow.Contract}}</td></tr>*@
+                        <tr><td><label class="form-control-static">Job:</label></td><td style="padding-top:15px">{{Machine.editRow.JobNum}}</td></tr>
+                        <tr>
+                            <td><label class="form-control-static">Review State:</label></td>
+                            <td>
+                                <select ng-model="Machine.editRow.RevId" class="form-control">
+                                    <option value="">---Select Review State---</option>
+                                    <option ng-repeat="opt in ReviewSequence" value="{{opt.id}}">{{opt.Value}}</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><label class="form-control-static">Documentation:</label></td>
+                            <td>
+                                <select ng-model="Machine.editRow.DocId" class="form-control">
+                                    <option value="">---Select Documentation---</option>
+                                    <option ng-repeat="opt in DocSequence" value="{{opt.id}}">{{opt.Value}}</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><label class="form-control-static">BOM State:</label></td>
+                            <td>
+                                <select ng-model="Machine.editRow.BomId" class="form-control">
+                                    <option value="">---Select BOM State---</option>
+                                    <option ng-repeat="opt in BOMSequence" value="{{opt.id}}">{{opt.Value}}</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><label class="form-control-static">Eprint State:</label></td>
+                            <td>
+                                <select ng-model="Machine.editRow.EprId" class="form-control">
+                                    <option value="">---Select Eprint State---</option>
+                                    <option ng-repeat="opt in EPrintSequence" value="{{opt.id}}">{{opt.Value}}</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><label class="form-control-static">Program State:</label></td>
+                            <td>
+                                <select ng-model="Machine.editRow.PrgId" class="form-control">
+                                    <option value="">---Select Program State---</option>
+                                    <option ng-repeat="opt in ProgramSequence" value="{{opt.id}}">{{opt.Value}}</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr><td><label class="form-control-static">Eprint Owner:</label></td><td><input class="form-control" type="text" ng-model="Machine.editRow.EprintOwner" /></td></tr>
+                        <tr><td><label class="form-control-static">Program Owner:</label></td><td><input class="form-control" type="text" ng-model="Machine.editRow.ProgramOwner" /></td></tr>
+                        <tr><td colspan="2" style="text-align:right"><button class="btn btn-primary" ng-click="Update()">Update</button></td></tr>
+                    </table>
+                </div>
+            </div>
+        </div>        <hr />
+        <footer>
+            <p>© 2017 - KVal Inc.</p>
+        </footer>   
+   </div>
+
+    <script src="Scripts/jquery-1.12.4.min.js"></script>
+    <script src="Scripts/jquery-ui-1.12.1.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/respond.min.js"></script>
+    <script src="Scripts/moment.min.js"></script>
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/angular-mocks.js"></script>
+    <script src="Scripts/progress/loading-bar.js"></script>
+    <script src="Scripts/app.js"></script>
+</body>
+
+</html>

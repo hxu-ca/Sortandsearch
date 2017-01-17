@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="MachineInfoModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'ERP10PROD.dbo.MachineInfo' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="MachineInfo">
+          <Key>
+            <PropertyRef Name="MachinePartNum" />
+            <PropertyRef Name="SerialNumber" />
+            <PropertyRef Name="MachineStatus" />
+            <PropertyRef Name="JobNum" />
+            <PropertyRef Name="Description" />
+            <PropertyRef Name="ProgramNum" />
+            <PropertyRef Name="ElecPrint" />
+            <PropertyRef Name="SinglePHVolt" />
+            <PropertyRef Name="SinglePHAmp" />
+            <PropertyRef Name="ThreePHVolt" />
+            <PropertyRef Name="ThreePHAmp" />
+            <PropertyRef Name="Notes" />
+            <PropertyRef Name="AirPrint" />
+            <PropertyRef Name="CFM" />
+            <PropertyRef Name="LineID" />
+          </Key>
+          <Property Name="MachinePartNum" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="SerialNumber" Type="nvarchar" MaxLength="40" Nullable="false" />
+          <Property Name="MachineStatus" Type="nvarchar" MaxLength="10" Nullable="false" />
+          <Property Name="JobNum" Type="nvarchar" MaxLength="14" Nullable="false" />
+          <Property Name="Description" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="ProgramNum" Type="nvarchar" MaxLength="64" Nullable="false" />
+          <Property Name="ElecPrint" Type="nvarchar" MaxLength="64" Nullable="false" />
+          <Property Name="SinglePHVolt" Type="int" Nullable="false" />
+          <Property Name="SinglePHAmp" Type="decimal" Precision="12" Scale="2" Nullable="false" />
+          <Property Name="ThreePHVolt" Type="int" Nullable="false" />
+          <Property Name="ThreePHAmp" Type="decimal" Precision="12" Scale="2" Nullable="false" />
+          <Property Name="Notes" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="WarrantyExpDate" Type="date" />
+          <Property Name="OrderNum" Type="int" />
+          <Property Name="OrderLine" Type="int" />
+          <Property Name="ProdQty" Type="decimal" Precision="22" Scale="8" />
+          <Property Name="ShipDate" Type="date" />
+          <Property Name="CustomerID" Type="nvarchar" MaxLength="10" />
+          <Property Name="CustomerName" Type="nvarchar" MaxLength="50" />
+          <Property Name="ShipToCustomerID" Type="nvarchar" MaxLength="10" />
+          <Property Name="ShipToCustomerName" Type="nvarchar" MaxLength="50" />
+          <Property Name="AirPrint" Type="nvarchar" MaxLength="32" Nullable="false" />
+          <Property Name="CFM" Type="nvarchar" MaxLength="32" Nullable="false" />
+          <Property Name="LineID" Type="nvarchar" MaxLength="32" Nullable="false" />
+          <Property Name="OrderComment" Type="nvarchar(max)" />
+          <Property Name="QuoteNum" Type="int" />
+          <Property Name="OrderHeadComment" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityContainer Name="MachineInfoModelStoreContainer">
+          <EntitySet Name="MachineInfo" EntityType="Self.MachineInfo" store:Type="Views" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [MachineInfo].[MachinePartNum] AS [MachinePartNum], 
+    [MachineInfo].[SerialNumber] AS [SerialNumber], 
+    [MachineInfo].[MachineStatus] AS [MachineStatus], 
+    [MachineInfo].[JobNum] AS [JobNum], 
+    [MachineInfo].[Description] AS [Description], 
+    [MachineInfo].[ProgramNum] AS [ProgramNum], 
+    [MachineInfo].[ElecPrint] AS [ElecPrint], 
+    [MachineInfo].[SinglePHVolt] AS [SinglePHVolt], 
+    [MachineInfo].[SinglePHAmp] AS [SinglePHAmp], 
+    [MachineInfo].[ThreePHVolt] AS [ThreePHVolt], 
+    [MachineInfo].[ThreePHAmp] AS [ThreePHAmp], 
+    [MachineInfo].[Notes] AS [Notes], 
+    [MachineInfo].[WarrantyExpDate] AS [WarrantyExpDate], 
+    [MachineInfo].[OrderNum] AS [OrderNum], 
+    [MachineInfo].[OrderLine] AS [OrderLine], 
+    [MachineInfo].[ProdQty] AS [ProdQty], 
+    [MachineInfo].[ShipDate] AS [ShipDate], 
+    [MachineInfo].[CustomerID] AS [CustomerID], 
+    [MachineInfo].[CustomerName] AS [CustomerName], 
+    [MachineInfo].[ShipToCustomerID] AS [ShipToCustomerID], 
+    [MachineInfo].[ShipToCustomerName] AS [ShipToCustomerName], 
+    [MachineInfo].[AirPrint] AS [AirPrint], 
+    [MachineInfo].[CFM] AS [CFM], 
+    [MachineInfo].[LineID] AS [LineID], 
+    [MachineInfo].[OrderComment] AS [OrderComment], 
+    [MachineInfo].[QuoteNum] AS [QuoteNum], 
+    [MachineInfo].[OrderHeadComment] AS [OrderHeadComment]
+    FROM [dbo].[MachineInfo] AS [MachineInfo]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="MachineInfoModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="MachineInfo">
+          <Key>
+            <PropertyRef Name="MachinePartNum" />
+            <PropertyRef Name="SerialNumber" />
+            <PropertyRef Name="MachineStatus" />
+            <PropertyRef Name="JobNum" />
+            <PropertyRef Name="Description" />
+            <PropertyRef Name="ProgramNum" />
+            <PropertyRef Name="ElecPrint" />
+            <PropertyRef Name="SinglePHVolt" />
+            <PropertyRef Name="SinglePHAmp" />
+            <PropertyRef Name="ThreePHVolt" />
+            <PropertyRef Name="ThreePHAmp" />
+            <PropertyRef Name="Notes" />
+            <PropertyRef Name="AirPrint" />
+            <PropertyRef Name="CFM" />
+            <PropertyRef Name="LineID" />
+          </Key>
+          <Property Name="MachinePartNum" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="SerialNumber" Type="String" MaxLength="40" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="MachineStatus" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="JobNum" Type="String" MaxLength="14" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ProgramNum" Type="String" MaxLength="64" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ElecPrint" Type="String" MaxLength="64" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="SinglePHVolt" Type="Int32" Nullable="false" />
+          <Property Name="SinglePHAmp" Type="Decimal" Precision="12" Scale="2" Nullable="false" />
+          <Property Name="ThreePHVolt" Type="Int32" Nullable="false" />
+          <Property Name="ThreePHAmp" Type="Decimal" Precision="12" Scale="2" Nullable="false" />
+          <Property Name="Notes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="WarrantyExpDate" Type="DateTime" Precision="0" />
+          <Property Name="OrderNum" Type="Int32" />
+          <Property Name="OrderLine" Type="Int32" />
+          <Property Name="ProdQty" Type="Decimal" Precision="22" Scale="8" />
+          <Property Name="ShipDate" Type="DateTime" Precision="0" />
+          <Property Name="CustomerID" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="CustomerName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="ShipToCustomerID" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="ShipToCustomerName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AirPrint" Type="String" MaxLength="32" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CFM" Type="String" MaxLength="32" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="LineID" Type="String" MaxLength="32" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="OrderComment" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="QuoteNum" Type="Int32" />
+          <Property Name="OrderHeadComment" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityContainer Name="ProductEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="MachineInfoes" EntityType="Self.MachineInfo" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="MachineInfoModelStoreContainer" CdmEntityContainer="ProductEntities">
+          <EntitySetMapping Name="MachineInfoes">
+            <EntityTypeMapping TypeName="MachineInfoModel.MachineInfo">
+              <MappingFragment StoreEntitySet="MachineInfo">
+                <ScalarProperty Name="MachinePartNum" ColumnName="MachinePartNum" />
+                <ScalarProperty Name="SerialNumber" ColumnName="SerialNumber" />
+                <ScalarProperty Name="MachineStatus" ColumnName="MachineStatus" />
+                <ScalarProperty Name="JobNum" ColumnName="JobNum" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="ProgramNum" ColumnName="ProgramNum" />
+                <ScalarProperty Name="ElecPrint" ColumnName="ElecPrint" />
+                <ScalarProperty Name="SinglePHVolt" ColumnName="SinglePHVolt" />
+                <ScalarProperty Name="SinglePHAmp" ColumnName="SinglePHAmp" />
+                <ScalarProperty Name="ThreePHVolt" ColumnName="ThreePHVolt" />
+                <ScalarProperty Name="ThreePHAmp" ColumnName="ThreePHAmp" />
+                <ScalarProperty Name="Notes" ColumnName="Notes" />
+                <ScalarProperty Name="WarrantyExpDate" ColumnName="WarrantyExpDate" />
+                <ScalarProperty Name="OrderNum" ColumnName="OrderNum" />
+                <ScalarProperty Name="OrderLine" ColumnName="OrderLine" />
+                <ScalarProperty Name="ProdQty" ColumnName="ProdQty" />
+                <ScalarProperty Name="ShipDate" ColumnName="ShipDate" />
+                <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+                <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+                <ScalarProperty Name="ShipToCustomerID" ColumnName="ShipToCustomerID" />
+                <ScalarProperty Name="ShipToCustomerName" ColumnName="ShipToCustomerName" />
+                <ScalarProperty Name="AirPrint" ColumnName="AirPrint" />
+                <ScalarProperty Name="CFM" ColumnName="CFM" />
+                <ScalarProperty Name="LineID" ColumnName="LineID" />
+                <ScalarProperty Name="OrderComment" ColumnName="OrderComment" />
+                <ScalarProperty Name="QuoteNum" ColumnName="QuoteNum" />
+                <ScalarProperty Name="OrderHeadComment" ColumnName="OrderHeadComment" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

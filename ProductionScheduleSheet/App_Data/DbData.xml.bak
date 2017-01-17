@@ -1,0 +1,3745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMachineInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MachineInfo>
+    <MachinePartNum>035-00</MachinePartNum>
+    <SerialNumber>SN16-35-087</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>005029</JobNum>
+    <Description>ON-3: FEEDER / STACKER</Description>
+    <ProgramNum>35-P13_1</ProgramNum>
+    <ElecPrint>35-087-P13_1</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>460</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>98899</OrderNum>
+    <OrderLine>5</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2016-07-29T00:00:00</ShipDate>
+    <CustomerID>786</CustomerID>
+    <CustomerName>Taylor Building Products - MI</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>0</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>175-00</MachinePartNum>
+    <SerialNumber>SN17-175-011</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>009062</JobNum>
+    <Description>EDGE SS</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>103319</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-04-03T00:00:00</ShipDate>
+    <CustomerID>158</CustomerID>
+    <CustomerName>Pacific Architectural Wood Products</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Contract ID: 6651Option D: Point to Point Pre-DrillSingle 23,000 RPM spindle drill unit with quick change chuck.  Programmed motion drills pilot holes in succession for hinge or lock face plate screws. Option I: Deep Drill CapabilityComputer controlled deep drill will be mounted to the travelling head of the EDGE-SS to automatically drill a 21/32" diameter hole for concealed rods and flush bolts up to 24" deep. Positioning from the edge of the door to the center of the hole and the depth of the hole will be done with dimension entries on the computer. Programmable Y axis for door thickness is not available on this head, so door thickness selections are limited to two settings within the sofware, typically for 1-3/4" and 2-1/4" doors. Option J: Squaring Chisels for Lock Face PlatesFour chisels, one for each corner latch plate mortise and hinge pockets. The correct chisel is selected for each corner and the depth of the plunge is set based on the machined depth of the mortise. Option R: 3 HP Spindle Router for Hinges and Face-PlatesAdds a fourth high frequency routing spindle with a short shank 1/2" diameter tool optimized for cutting face-plates or hinges up to 0.250" deep. This is an ideal head for diamond tooling and will speed up cycle rates for these popular sequences.</OrderComment>
+    <QuoteNum>20295</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>221-00</MachinePartNum>
+    <SerialNumber>SN17-221-001</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>009896</JobNum>
+    <Description>RTS-FX</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>103437</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-04-04T00:00:00</ShipDate>
+    <CustomerID>540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Eau Claire</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option Custom Input Control:Inputs will be provided to connect with Midwest's computer download to automatically select one of three screw colors. Option: Reverse Orientation:All connections with electrical, air and screw hoses are reversed. This station is positioned to right of the 990FX standing along the hinge side.</OrderComment>
+    <QuoteNum>20307</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>093-00</MachinePartNum>
+    <SerialNumber>SN17-93-022</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>009897</JobNum>
+    <Description>990-FX: DOOR PRE HANGING MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>103437</OrderNum>
+    <OrderLine>2</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-04-04T00:00:00</ShipDate>
+    <CustomerID>540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Eau Claire</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option C: Pushbutton Selection for Face Bore BacksetsFor two face bore backsets between 2-3/8� and 2-3/4�. Manual adjustment takes 5 to 10 minutes. Option N: Dust Blow off SystemAir blow-off tube cleans dust and chips from the top of a door. Option T: High-Frequency Hinge RoutersThree 1 HP 230/380v high-frequency hinge routers and drive units with 1/2" collet. Option U: High-Frequency Bolt Plate RouterOne 1 HP 230/380v high-frequency bolt plate router with drive unit and 1/2" collet. Option S: 6'8" and 7'0" Lock Postion StopsAir operated stops, on for left hand doors and one for right hand doors will be installed. The stops will be controlled by a valve mounted on the hinge side of the 990FX where the operator can reach it without leaving his work station. NOTE: With this quick change option for the lock bore location only two locations for both right hand and left hand are allowed, and must be specified at the time the machine is ordered.  Option: Dust Hoods Beween Door and Jamb:Replaces standard chip-out block system Option: Jamb PushersLike the Shelby lines, the jamb indexing system must accommodate split jambs with a turret on the end pushers. Special Inputs and Programming for Download ControlSpecial Inputs include:&gt;Face Bore (y,n)&gt; Face Bore (2-3/8, 2-3/4) Face Bore Depth (shallow, deep)&gt; Face Plate (y,n)&gt; Latch Bore (y,n)&gt; Pre-drill (y,n)&gt; Screwdriver (y,n)&gt; 2, or 3 hinges&gt; LH/RH&gt; 6’8” or 7’0” lock bore positionSpecial Notes:Jamb pusher and stop to be welded to the tube. Jamb positioning stop requires manual adjustment on existing lines for 7'0" jambs. It is too time consuming. A simple method with an over-ride switch or quick adjustment without tools is required on this line. Reverse Feed: Feed Direction is right to left standing at the hinge routers.</OrderComment>
+    <QuoteNum>20307</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>072-00</MachinePartNum>
+    <SerialNumber>SN17-72-004</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>009898</JobNum>
+    <Description>JAMB TRANSFER</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>103437</OrderNum>
+    <OrderLine>3</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-04-04T00:00:00</ShipDate>
+    <CustomerID>540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Eau Claire</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option: Reverse FeedReverses the jamb transfer system for right hand to left hand feed direction standing at the hinge side of the 990FX.</OrderComment>
+    <QuoteNum>20307</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>102-00</MachinePartNum>
+    <SerialNumber>SN17-102-004</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>009899</JobNum>
+    <Description>CT-1B</Description>
+    <ProgramNum>NA</ProgramNum>
+    <ElecPrint>NA</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>103437</OrderNum>
+    <OrderLine>4</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-04-04T00:00:00</ShipDate>
+    <CustomerID>540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Eau Claire</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>VFD Upgrade:Upgrades the conveyor roll drives to VFD's allowing smooth start and stops at 150FPM matching the speed of the 990FX. Reverse Feed Direction:Feed direction is right to left standing on the hinge side of the 990FX</OrderComment>
+    <QuoteNum>20307</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>221-00</MachinePartNum>
+    <SerialNumber>SN17-221-002</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>009945</JobNum>
+    <Description>RTS-FX</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>103471</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-04-04T00:00:00</ShipDate>
+    <CustomerID>540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Eau Claire</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Contract ID: 6427The RTS-FX is companion station for the 990FX allowing up to three sets of screw hoppers to automatically index for screw color change.It includes a custom framework designed to fit around above Midwest's existing door transfer conveyor. Above the existing conveyor table, a four sided “Lazy Susan” supported on heavy duty Timken bearings and framework, will allow up to three sets of screw hoppers to rotary index in 90 degree increments with a servo motor and gear system. Screw feed hoses (18) from the 990FX screw drivers are arranged to connect to a manifold below the screw hoppers, and in alignment with the hinge side of the 990FX. Screws drop by gravity from the hoppers down into the manifold, and are blown with compressed air up to the screwdrivers.Screws can be easily reloaded into the hoppers when rotated in alignment with the hinge side of the 990FX. Changing the screw color will be via pushbutton, or via automatic download from Midwest’s door data. Rotation time is estimated at 4-5 seconds.Price includes moving the three standard screw hoppers from above the 990FX to this station, along with six more hoppers.Custom Input Control: Inputs will be provided to connect with Midwest's computer download to automatically select one of three screw colors.</OrderComment>
+    <QuoteNum>20319</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>093-00</MachinePartNum>
+    <SerialNumber>SN17-93-023</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>009946</JobNum>
+    <Description>990-FX: DOOR PRE HANGING MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>460</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>103471</OrderNum>
+    <OrderLine>2</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-04-04T00:00:00</ShipDate>
+    <CustomerID>540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Eau Claire</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Contract ID:6427Option C: Pushbutton Selection for Face Bore BacksetsFor two face bore backsets between 2-3/8� and 2-3/4�. Manual adjustment takes 5 to 10 minutes. Option N: Dust Blow off SystemAir blow-off tube cleans dust and chips from the top of a door. Option T: High-Frequency Hinge RoutersThree 1 HP 230/380v high-frequency hinge routers and drive units with 1/2" collet. Option U: High-Frequency Bolt Plate RouterOne 1 HP 230/380v high-frequency bolt plate router with drive unit and 1/2" collet.  Option S: 6'8" and 7'0" Lock Postion Stops:  Air operated stops, on for left hand doors and one for right hand doors will be installed. The stops will be controlled by a valve mounted on the hinge side of the 990FX where the operator can reach it without leaving his work station. NOTE: With this quick change option for the lock bore location only two locations for both right hand and left hand are allowed, and must be specified at the time the machine is ordered. Dust Hoods Between Door &amp; Jamb:  Replaces standard chip-out block system Jamb Pushers:  Like the Shelby lines, the jamb indexing system must accommodate split jambs with a turret on the end pushers.Special NotesJamb pusher and stop to be welded to the tube. Jamb positioning stop requires manual adjustment on existing lines for 7'0" jambs. It is too time consuming. A simple method with an over-ride switch or quick adjustment without tools is required on this line. Special Inputs and Programming for Download Control: Special Inputs include:&gt;Face Bore (y,n)&gt; Face Bore (2-3/8, 2-3/4)&gt; Face Bore Depth (shallow, deep)&gt; Face Plate (y,n)&gt; Latch Bore (y,n)&gt; Pre-drill (y,n)&gt; Screwdriver (y,n)&gt; 2, or 3 hinges&gt; LH/RH&gt; 6’8” or 7’0” lock bore position Ball Catch Drilling:  Drill assemblies are mounted onto the lock boring section for drilling left hand and right hand doors for drive-in ball catches. When selected the proper drill automatically pivots in to drill into the top of the door. Note: minimum door width is 18" for drilling. Automatic on/off and door hand can be manually selected and an extra input will be provided for automatic activation via Midwest control system.</OrderComment>
+    <QuoteNum>20319</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>072-00</MachinePartNum>
+    <SerialNumber>SN17-72-005</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>009947</JobNum>
+    <Description>JAMB TRANSFER</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>103471</OrderNum>
+    <OrderLine>3</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-04-04T00:00:00</ShipDate>
+    <CustomerID>540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Eau Claire</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Contract ID: 6427</OrderComment>
+    <QuoteNum>20319</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>102-00</MachinePartNum>
+    <SerialNumber>SN17-102-005</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>009948</JobNum>
+    <Description>CT-1B</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>103471</OrderNum>
+    <OrderLine>4</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-04-04T00:00:00</ShipDate>
+    <CustomerID>540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Eau Claire</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Contract ID:6427VFD Upgrade:  Upgrades the conveyor roll drives to VFD's allowing smooth start and stops at 150FPM matching the speed of the 990FX.</OrderComment>
+    <QuoteNum>20319</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>179-00</MachinePartNum>
+    <SerialNumber>SN17-179-002</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>011116</JobNum>
+    <Description>VISION-FS: DOOR FEEDER / DOOR STACKER</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>103687</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-07-31T00:00:00</ShipDate>
+    <CustomerID>1499</CustomerID>
+    <CustomerName>TruStile Doors, LLC</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option B:  Automatic Door Rotate
+Adds rotate capability to the vacuum lifting fixture so doors can rotate 180 degrees as they transfer to the infeed table, or door stack. Touch screen programming is included to rotate every door, every other door or one door. PLC inputs are also available to automatically rotate as part of a down-load process.</OrderComment>
+    <QuoteNum>20338</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>177-00</MachinePartNum>
+    <SerialNumber>SN17-177-011</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>011117</JobNum>
+    <Description>FACE SS</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>103687</OrderNum>
+    <OrderLine>3</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-07-31T00:00:00</ShipDate>
+    <CustomerID>1499</CustomerID>
+    <CustomerName>TruStile Doors, LLC</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option BC: Bar Code Scanning
+Hand held bar code reader with flexible cable, including software installed on the FACE-SS, for scanning door as it enters the machine. Note: doors must be properly stacked for left hand or right hand if the option for the automatic rotate system, option B, on the Vision Door Feeder/Door stacker is not selected.
+  
+  The hand held scanner may also be used to read the bar code on doors that are manually loaded or for a door that did not automatically scan.
+ 
+Adds face plate and latch bore capability for 161 style lock preps, including corner squaring and either 0 or 3 degree face plate routing. Total cycle for face holes, square face plate and latch bore is approximately 55 seconds. Plate size and depth is programmable but limited to 1-1/4" x 2-1/2" and centered on the lock face hole. Latch bore depth is limited to 2-1/4" from the door edge, or adequate for 2-3/4" backset locks. Mechanism includes additional 3HP spindle router positioned horizontally and adjacent to the existing face routers, which telescopes upwards to center on the door edge during face plate/latch-bore operation. Chisels are positioned on the same plate.
+ 
+A quotation for recommended spare parts for the machine will be provided based on your access to parts locally and your need to keep down time at a minimum. 
+Please review with your KVAL consultant to determine your needs.</OrderComment>
+    <QuoteNum>20338</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>175-00</MachinePartNum>
+    <SerialNumber>SN17-175-012</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>011118</JobNum>
+    <Description>EDGE SS</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>103687</OrderNum>
+    <OrderLine>4</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-07-31T00:00:00</ShipDate>
+    <CustomerID>1499</CustomerID>
+    <CustomerName>TruStile Doors, LLC</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option D: Point to Point Pre-Drill
+Single 23,000 RPM spindle drill unit with quick change chuck.  Programmed motion drills pilot holes in succession for hinge or lock face plate screws.
+ 
+Option DA: Door Position Animation
+Door Position Animation Screen includes programming and extra video display showing an animation to graphically indicate how to position the door in the EDGE. Information for the display is automatically generated based on information contained in the door file program. The sequence is optimized based on door swing and hardware details to minimize operator steps. The screen updates after each operation to show the next step, and indicates the last step. When the EDGE is equipped with option Q, Power Off-Feed it will automatically unclamp and feed the door to the next machine when it is ready to receive the door. This allows the operator to return to the FACE and begin to process the next door.
+ 
+Option I: Deep Drill Capability
+Computer controlled deep drill will be mounted to the travelling head of the EDGE-SS to automatically drill a 21/32" diameter hole for concealed rods and flush bolts up to 24" deep. Positioning from the edge of the door to the center of the hole and the depth of the hole will be done with dimension entries on the computer. Programmable Y axis for door thickness is not available on this head, so door thickness selections are limited to two settings within the sofware, typically for 1-3/4" and 2-1/4" doors.
+ 
+Option J: Squaring Chisels for Lock Face Plates
+Four chisels, one for each corner latch plate mortise and hinge pockets. The correct chisel is selected for each corner and the depth of the plunge is set based on the machined depth of the mortise.
+ 
+Option Q: Power Off-feed
+Powered out feed rolls positioned in the table will automatically start after the door machining has been completed and the caster bed lowers the door onto the door onto the rolls. The door will automatically feed out only when the next machine is ready to receive the door.
+  A switch is included for the operator to enable the sequence when the door is clamped on the "Last Edge". This allows the operator to return to the FACE-SS to begin machining the next door without delay or further intervention.
+ 
+Option R: 3 HP Spindle Router for Hinges and Face-Plates
+Adds a fourth high frequency routing spindle with a short shank 1/2" diameter tool optimized for cutting face-plates or hinges up to 0.250" deep. This is an ideal head for diamond tooling and will speed up cycle rates for these popular sequences.
+ 
+Option: Spare Parts Package
+Includes spare parts for all three machines including both mechanical and electrical components: Quote ID 20327.</OrderComment>
+    <QuoteNum>20338</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>186-00</MachinePartNum>
+    <SerialNumber>SN17-206-004</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>011702</JobNum>
+    <Description>ON12-HQ</Description>
+    <ProgramNum />
+    <ElecPrint>206-004-P2_1</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>460</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>103819</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-03-01T00:00:00</ShipDate>
+    <CustomerID>80</CustomerID>
+    <CustomerName>Bayer Built Woodworks Inc.</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Contract: 5843Reverse Feed and Stack Reverse Feed Direction. Doors feed from right to left standing on the hinge side with the door stack also on the hinge side.  Upgrade Vacuum Cup Thickness Schmalz vacuum lifting beams will be equipped with 30mm thick foam to conform around proud door mouldings. Confirm part Schmalz part number of 10.01.21.02300/2  Door Stack Chain Conveyor $24,950.00 Includes dual chain conveyor system allowing a new door stack to be positioned outside the main feeder framework for immediate in-feed when required. The chains also extend under the feeder's power conveyor table to also convey caul boards towards the hinge side of 990HB just above for the floor for restacking. The conveyor chain is jogged by the operator holding down an electric foot-pedal. A set of stack position eyes are mounted at the conveyor table to stop the chain, until the pedal is released and pressed again.The design includes 4" tall bumpers above the chain on the outer end. A lift driver lowers a new stack to just above the chain, then backs up to align the stack against the bumpers before lowering to the chain. This aligns the stack for in-feed up to the conveyor table.Two vertical light curtains will also be provided to allow the feeder to remain operating while a new stack is loaded on the conveyor chains. The inner light curtain is a full emergency stop, while the outer curtain, spaced 14" further, pauses the vacuum platen travel. The inner curtain will be positioned approximately 2" past a 42" door stack.</OrderComment>
+    <QuoteNum>20350</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>206-00</MachinePartNum>
+    <SerialNumber>SN17-206-004</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>011702</JobNum>
+    <Description>ON12HQ-B</Description>
+    <ProgramNum />
+    <ElecPrint>206-004-P2_1</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>460</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>103819</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-03-01T00:00:00</ShipDate>
+    <CustomerID>80</CustomerID>
+    <CustomerName>Bayer Built Woodworks Inc.</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Contract: 5843Reverse Feed and Stack Reverse Feed Direction. Doors feed from right to left standing on the hinge side with the door stack also on the hinge side.  Upgrade Vacuum Cup Thickness Schmalz vacuum lifting beams will be equipped with 30mm thick foam to conform around proud door mouldings. Confirm part Schmalz part number of 10.01.21.02300/2  Door Stack Chain Conveyor $24,950.00 Includes dual chain conveyor system allowing a new door stack to be positioned outside the main feeder framework for immediate in-feed when required. The chains also extend under the feeder's power conveyor table to also convey caul boards towards the hinge side of 990HB just above for the floor for restacking. The conveyor chain is jogged by the operator holding down an electric foot-pedal. A set of stack position eyes are mounted at the conveyor table to stop the chain, until the pedal is released and pressed again.The design includes 4" tall bumpers above the chain on the outer end. A lift driver lowers a new stack to just above the chain, then backs up to align the stack against the bumpers before lowering to the chain. This aligns the stack for in-feed up to the conveyor table.Two vertical light curtains will also be provided to allow the feeder to remain operating while a new stack is loaded on the conveyor chains. The inner light curtain is a full emergency stop, while the outer curtain, spaced 14" further, pauses the vacuum platen travel. The inner curtain will be positioned approximately 2" past a 42" door stack.</OrderComment>
+    <QuoteNum>20350</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>201-00</MachinePartNum>
+    <SerialNumber>SN17-201-016</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>011703</JobNum>
+    <Description>558: DOOR SIZER</Description>
+    <ProgramNum />
+    <ElecPrint>201-016-P1_4</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>460</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>103819</OrderNum>
+    <OrderLine>2</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-03-01T00:00:00</ShipDate>
+    <CustomerID>80</CustomerID>
+    <CustomerName>Bayer Built Woodworks Inc.</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Touch Screen Integration 
+All touch screen functions will be integrated into the 990HB touch screen, mounted on left end of the 990HB and adjacent to an independent touch screen for the door feeder.  
+ Extended Safety Fence 
+ 
+Extended Safety Fence 
+Safety fence to be extended from the frame of the ON12 to the frame of the quick change screw bin holder.  
+ 
+Reverse feed doors from right to left. Involves completely custom run of mirrored parts.</OrderComment>
+    <QuoteNum>20350</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>211-00</MachinePartNum>
+    <SerialNumber>SN17-211-002</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>011704</JobNum>
+    <Description>990-HB</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>103819</OrderNum>
+    <OrderLine>3</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-03-01T00:00:00</ShipDate>
+    <CustomerID>80</CustomerID>
+    <CustomerName>Bayer Built Woodworks Inc.</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Addional Three Quick Change Screw Hoppers
+Adds an extra bank of screw feed hoppers with quick screw change capability, also mounted to the same framework above the 558 door feeder. This allows screw color changes or reloading while the 990HB is operating. A materials operator could monitor upcoming doors and load the new screw color while a second operator continues to run the machine. A touch screen selection will switch between hopper banks in about one second.
+ 
+Lever Lock Screw Hole Drills
+Adds drill cartridge system to drill screw holes for lever locks during the lock processing sequence. No cycle time impacts. Includes two drill boxes, for Sargent 4375C and Schlage D Series #792. Minimum door width for lever lock hole processing and standard locks is 18. Please note, drill cartridge units will be custom engineered to fit and are not interchangeable with other Kval door machines.
+ 
+Ball Catch Drills
+Drill assemblies are mounted onto the lock boring section for drilling left hand and right hand doors for drive-in ball catches. When selected the proper drill automatically pivots in to drill into the top of the door. Note: minimum door width is 18 for drilling.
+ 
+Option for lever lock holes will include only the Schlage D series drill unit rather than two units. Price is adjust accordingly.
+
+ 
+Reverse Feed Direction: 
+Reverse feed doors from right to left. 
+ 
+</OrderComment>
+    <QuoteNum>20350</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>046-00</MachinePartNum>
+    <SerialNumber>SN17-46-419</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>011705</JobNum>
+    <Description>700-C: FRAME ASSEMBLY MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint>46-ELE5_1</ElecPrint>
+    <SinglePHVolt>120</SinglePHVolt>
+    <SinglePHAmp>0.90</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>103819</OrderNum>
+    <OrderLine>4</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-03-01T00:00:00</ShipDate>
+    <CustomerID>80</CustomerID>
+    <CustomerName>Bayer Built Woodworks Inc.</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Contract: 5843Option C: Jamb Width Auto SelectorEnables easy switching for jamb widths between 4-9/16 In, 5-1/4 In, 6-9/16 In, and 7-1/4 In. Option G: 7 Ft Door Frame CapacityAllow Operator to quickly adjust end clamps from 6 Ft 8 Inch to 7 Ft doors.  Quick changeover time of approximately one minute required. In-feed and out-feed ends reversed for right to left door processing standing at the hinge side of door units. Includes up to 60 hours of programming to automatically set-up the machines described in this quote. The set-ups are based on a data transferred when RFID chips are scanned at the door feeder. The automatic settings will include at least: 1) Door Size2) Bevel 3 degree, O degree or feed thru (feed thru for all prefinish complete door, flush HC &amp; SC stock doors, SO flush?, 1-3/4” flush stock doors)3) Hinge pattern (size, radius)a. Size = 3-1/2”, 4” or 5”b. Radius = 5/8”, ¼” or square4) Screw color5) Door handing (LH, RH)6) Door thickness7) Door height8) 3 degree or square9) Quanity of lock bores (up to 3)10) Location of lock bores11) Face plate routine (size, radius or square)12) Lock backset13) Lock bore type (cylindrical or A.L. prep)14) Lock bore depth (thru, or not)15) Double door or single door 16) Ball catch or not17) Jamb widthProgramming will also be provided to send back a signal showing receipt of data and to edit screw location edits. Manual over-rides for missing data will be provided at each station - just like standard Kval stations. Error recovery for doors removed or inserted is also included.Bayer Built agrees to provide scanner(s) for the feeder which Kval will mount and test. Move the operator control panel and foot-pedal to the fixed side, in line with the 990HB hinge routers.</OrderComment>
+    <QuoteNum>20350</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>035-00</MachinePartNum>
+    <SerialNumber>SN17-35-093</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>100201</JobNum>
+    <Description>ON-3: FEEDER / STACKER</Description>
+    <ProgramNum>35-PRG11_3</ProgramNum>
+    <ElecPrint>35-093-P11_3</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>208</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>104798</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-01-16T00:00:00</ShipDate>
+    <CustomerID>2807</CustomerID>
+    <CustomerName>Mans Lumber Millwork</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option A: Reverse Stack
+In a pre-hanging operation this places the stack of doors on the operator side of a Commander or F-Series machine.
+ 
+Option H:  Remote Switch for Manual Feed Through
+Allows doors to be fed manually from the end of the machine. Price includes a non marking plastic roll mounted in the guard.
+ 
+Option L: Ability to Feed Doors With Raised Molding
+This option adds the capacity to feed doors with raised molding on either or both sides. Maximum molding height above door face will be 3/4 inch. Spacers used to stack doors must be postioned so they do not interfere with the clamp system. The clamp system supports must be manually positioned to clear the molding prior to feeding the doors. The feed table will be equipped with additional rubber covered rolls closely spaced to support the door on the molding. NOTE: If ON-3 is used to feed a 555 Door Sizer Option R: Powered in-feed extension is required.
+ 
+Option T: Extended Control Cable
+Option T: Extended Control Cable     Extended cable length required when the 558 Door Sizer is included in the pre-hanging line so the control panel for the ON-3 can be mounted next to the door pre-hanging machine control panel.   NOTE: This option is required when the 558 Door Sizer is installed between the ON-3 and the door pre-hanging machine.
+ 
+Option: Tooling and Lubrication Package
+Please review with your KVAL Consultant to determine your needs.</OrderComment>
+    <QuoteNum>20479</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>201-00</MachinePartNum>
+    <SerialNumber>SN17-201-017</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>100202</JobNum>
+    <Description>558: DOOR SIZER</Description>
+    <ProgramNum>201-PRG1_4</ProgramNum>
+    <ElecPrint>201-017-P1_4</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>208</ThreePHVolt>
+    <ThreePHAmp>29.50</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>104798</OrderNum>
+    <OrderLine>2</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-01-16T00:00:00</ShipDate>
+    <CustomerID>2807</CustomerID>
+    <CustomerName>Mans Lumber Millwork</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Contract ID:6466Option R: Raised Moulding InfeedWidth adjust powered extension mounted on the in-feed end of the 558.  Provides the capacity to accommodate doors with raised molding.     NOTE: Required when a Handler or ON-3 is used to feed doors with raised molding into the 558.</OrderComment>
+    <QuoteNum>20479</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>204-00</MachinePartNum>
+    <SerialNumber>SN17-204-016</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>100203</JobNum>
+    <Description>994-X: SERVO CONTROLLED DOOR PRE HANGING MACHINE</Description>
+    <ProgramNum>204-SP1-P1_7</ProgramNum>
+    <ElecPrint>204-016-P1_5</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>208</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>104798</OrderNum>
+    <OrderLine>3</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-01-16T00:00:00</ShipDate>
+    <CustomerID>2807</CustomerID>
+    <CustomerName>Mans Lumber Millwork</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Contract ID:6466Option A: Six-Shooter Screw Gun for 3-1/2" X 3-1/2" HingeTo attach 3-1/2" X 3-1/2" hinges to the door and jamb, No. 9 by 3/4" long flat head screws are automatically sorted and fed, six at a time, to the screw gun. Operator manually places the hinge onto the magnetic indexing fixture and then rolls and pivots the Six Shooter into an "H" block at each hinge location to attach the hinges. Pressing the 'Reset' switch then raises the Six Shooter and feeds a set of six screws for the attachment of the next hinge.   NOTE: Requires Option D: Pre-Drill System for Six Shooter.     The Six Shooter, which is supported on ball bearing equipped steel wheels, is mounted on an overhead track that is precisely aligned to ensure the hinge is properly position into the pocket at each hinge location.    NOTE: When an Eight Shooter Screw Gun is added to a 990F-3 (or 990F-4) equipped with a Six Shooter, the overhead track system must be extended in length on both ends to provide the necessary clearance for hinge applicator being used to travel the full length of the track to attach the hinges without  having to move the door and jamb. Option BC: Ball Catch DrillsDrill assemblies are mounted onto the lock boring section for drilling left hand and right hand doors for drive-in ball catches. When selected the proper drill automatically pivots in to drill into the top of the door. Note, minimum door width for drilling is 18". Option CH: Corner Square ChiselsCorner Square Option adds automatic corner squaring to the hinge routing sequence in both the door and jamb. Option includes two chisel mounting blocks per head, each one containing two chisels. As one chisel is operating, the inactive chisel is in the reveal between the door and jamb. For instance, when you are squaring the upper right corner in the jamb, the lower right chisel will be in the reveal. When the lower right chisel is squaring the lower right corner in the door, the upper right chisels in in the reveal. Although two chisels are paired together in one mounting block, each one is independently calibrated for vertical and horizontal travel as well as depth.     Use of the chisels will add approximately 4 seconds to the overall cycle time. Chisels automatically switch between pocket sizes so simply selecting chisels on or off is all that�s required. Option CR: Counter Rotating RoutersThe standard 994X relies on automatic chip-out blocks clamped between door and jamb to protect the door face and jamb edges from chipping during hinge routing.  This option eliminates the chip-out blocks by adding four extra routers to the hinge detailing section with left hand rotation. As hinge pockets are routed, the left hand rotating routing tool is used to minimize chipping of the door face or jamb edge. This option is recommended for all applications including through cut hinge pockets, but cannot be combined with automatic hinge corner squaring (Option CH) due to space constraints imposed by hinge center distances. Option E: Two-Stage DrillingAllows changeover for two different face bore sizes with a selection on the control panel.     Customer to specify 1-1/2� or 1-5/8� for dead bolt face bore when ordering. Standard lock boring bit is 2/1/8". Option IL: Door Hand Indicator LightLight will be mounted on the out-feed end of the 990-F4 that can be seen by the 700-C Assembly Table operator. The light will be on when the door in the 990-F4 is being machined as a right hand door and off for a left hand door. Option O: Door Blow-Off SystemAir blow-off tube cleans dust and chips from top of door as it feeds out of the 994-X. Option R1:  Zero &amp; Three Degree Hinge RoutingPrice includes PLC logic and controls to allow front hinge routing section to rout on either a 0 degree or 3 degree angle.   Hinges will be flush mounted when installed on doors with either square edge or 3 degree bevel on hinge side. Option W: Hinge Stops for 6'8", 7'0" &amp; 8'0" DoorsThis option is limited to certain hinge pocket locations. Hinge location specifications need to be submitted in order to determine if they can be accommodated with the 994-X. Option Z: Screw-Changing Hopper for Six ShooterScrew-changing hopper for changing screw colors. Modification for Future 6-Shooter &amp; 8-Shooter CombinationOption AG is required when a second hinge applicator is to be installed on the same machine at a future date. Price includes all components of Option AD plus new vertical frame parts and reinforced horizontal beams to support both the 6-Shooter and the 8-Shooter. Price also includes the necessary support for the two cable track systems to supply air and electric to both hinge applicators.   Pre-Drill Bits Kval will provide the customer with free pre-drill bits for the first two years of owning the equipment.</OrderComment>
+    <QuoteNum>20479</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>046-00</MachinePartNum>
+    <SerialNumber>SN17-46-421</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>100204</JobNum>
+    <Description>700-C: FRAME ASSEMBLY MACHINE</Description>
+    <ProgramNum>46-PRG5_1</ProgramNum>
+    <ElecPrint>46-ELE5_1</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>104798</OrderNum>
+    <OrderLine>4</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-01-16T00:00:00</ShipDate>
+    <CustomerID>2807</CustomerID>
+    <CustomerName>Mans Lumber Millwork</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Contract ID:6466Option C: Jamb Width Auto SelectorEnables easy switching for jamb widths between 4-9/16 In, 5-1/4 In, 6-9/16 In, and 7-1/4 In. Option D: 7 Ft and 8 Ft Door Frame CapacityAllows operator to quickly adjust end clamps from 6 Ft 8 In to 7 Ft or 8 Ft doors.  Quick changeover time of approximately one minute required. Tooling and Lubrication PackagePlease review with your KVAL consultant to determine your needs.</OrderComment>
+    <QuoteNum>20479</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>065-00</MachinePartNum>
+    <SerialNumber>SN17-65-359</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>100205</JobNum>
+    <Description>960-3: AUTOMATIC STRIKE ROUTING MACHINE</Description>
+    <ProgramNum>65-PRG4_1</ProgramNum>
+    <ElecPrint>65-359-P4_1</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>208</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>104798</OrderNum>
+    <OrderLine>5</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-01-16T00:00:00</ShipDate>
+    <CustomerID>2807</CustomerID>
+    <CustomerName>Mans Lumber Millwork</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Contract ID:6466Option F: Extra Jamb Index StopsTwo extra jamb index stops for machining dead-bolt strikes. Option H: Commercial PackageFour additional stops for 6’8”, 7’0” and 8’0” jambs. (Stops included on base machine for 6/8 doors,does not include extra stops for deadlock machining) Option O: High-Frequency Router2HP high-frequency router motor with drive. Option: Tooling and Lubrication PackagePlease review with your KVAL consultant to determine your needs.</OrderComment>
+    <QuoteNum>20479</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>035-00</MachinePartNum>
+    <SerialNumber>SN17-35-094</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>109120</JobNum>
+    <Description>ON-3: FEEDER / STACKER</Description>
+    <ProgramNum>35-PRG11_3</ProgramNum>
+    <ElecPrint>35-094-P11_3</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>460</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>105174</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-01-30T00:00:00</ShipDate>
+    <CustomerID>1061</CustomerID>
+    <CustomerName>Reeb Millwork Co. - Bethlehem</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID>LN-1-0005</LineID>
+    <OrderComment>Contract ID:6681Option A: Reverse StackIn a pre-hanging operation this places the stack of doors on the operator side of a Commander or F-Series machine. Option B: Reverse Feed DirectionRe-orientates power buffer table rollers, drive and sensors to opposite hand.(This option is required only if the feed direction of the complete line is right to left.) Option H:  Remote Switch for Manual Feed ThroughAllows doors to be fed manually from the end of the machine. Price includes a non marking plastic roll mounted in the guard. Option L: Ability to Feed Doors With Raised MoldingThis option adds the capacity to feed doors with raised molding on either or both sides. Maximum molding height above door face will be 3/4 inch. Spacers used to stack doors must be postioned so they do not interfere with the clamp system. The clamp system supports must be manually positioned to clear the molding prior to feeding the doors. The feed table will be equipped with additional rubber covered rolls closely spaced to support the door on the molding. NOTE: If ON-3 is used to feed a 555 Door Sizer Option R: Powered in-feed extension is required. Option T: Extended Control CableExtended Control Cable     Extended cable length required when the 558 Door Sizer is included in the pre-hanging line so the control panel for the ON-3 can be mounted next to the door pre-hanging machine control panel.   NOTE: This option is required when the 558 Door Sizer is installed between the ON-3 and the door pre-hanging machine. Special Option: Joulin Vacuum Pad SystemReplaces the standard door end grip fixture with vacuum pump and Joulin lifting pads. Eliminates selector switch for wide or narrow doors, and lifts door widths from 12" to 48" including doors with proud mouldings protruding up to 3/4" above the door face. Minimum door stile width is 4-1/2". Maximum capacity for panel doors or doors with light cut-outs is 150lbs. Special Option: Third Joulin Vacuum PadAdds a third lifting pad centered between the pads described above. This increases lifting capacity to well over 200lbs and is recommended for heavy 2-1/4" stile and rail doors.</OrderComment>
+    <QuoteNum>20521</QuoteNum>
+    <OrderHeadComment>Contract ID: 6681</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>201-00</MachinePartNum>
+    <SerialNumber>SN17-201-018</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>109121</JobNum>
+    <Description>558: DOOR SIZER</Description>
+    <ProgramNum>201-P1_4</ProgramNum>
+    <ElecPrint>201-018-P4_1</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>460</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>105174</OrderNum>
+    <OrderLine>2</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-01-30T00:00:00</ShipDate>
+    <CustomerID>1061</CustomerID>
+    <CustomerName>Reeb Millwork Co. - Bethlehem</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID>LN-1-0005</LineID>
+    <OrderComment>Contract ID:6681Option R: Raised Moulding InfeedWidth adjust powered extension mounted on the in-feed end of the 558.  Provides the capacity to accommodate doors with raised molding.     NOTE: Required when a Handler or ON-3 is used to feed doors with raised molding into the 558. Special Option: Metal Door SensorAdds a sensor at the machine in-feed to automatically detect a steel door face. Width will auto adjust to door bypass mode so door feeds through safely without contacting cutters or sander.  Special Option: 60mm Cutterhead:See note under additional details. This line will process 2-1/4" doors, requiring either a straight up and down 60mm cutter-head (no charge) or stacked cutter-heads and longer spindle (special charge to be quoted later).</OrderComment>
+    <QuoteNum>20521</QuoteNum>
+    <OrderHeadComment>Contract ID: 6681</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>202-00</MachinePartNum>
+    <SerialNumber>SN17-202-007</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>109122</JobNum>
+    <Description>COMMANDER-3</Description>
+    <ProgramNum>202-P1_4</ProgramNum>
+    <ElecPrint>202-007-P1_4</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>460</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>105174</OrderNum>
+    <OrderLine>3</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-01-30T00:00:00</ShipDate>
+    <CustomerID>1061</CustomerID>
+    <CustomerName>Reeb Millwork Co. - Bethlehem</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID>LN-1-0005</LineID>
+    <OrderComment>Contract ID:6681Option AR: Architectural Door PackageAdds a barcode scanner and processing for architectural doors up 2-1/4” thick with Kval 2012 door software, which integrates with the machine’s industrial PC and CNC positioning motors to completely automate hinge pattern processing and lock locations. Door files can be created with the software which can reference barcode labels, or be selected from an on screen list for nearly instant machine set-up. The door files are identical to those used in the Kval Face, Edge and DLNC series machines so one file can be created to be used in multiple operations. Anti-Static air blow bar to clean door face is also included in this package. Option FC:  CNC Lock Face Plate with ChiselsAdds CNC control of face plate routing and corner squaring of face plates on both ‘0’ and ‘3’ degree doors. Option includes programming and three additional servo motors, ball screws, servo drives and four corner square chisels. Operator can select face plates ranging in size from 1” to 1-1/4” wide and up to 2-3/4” long. Option AC: Steel Door Sensor:Allows operator to do the edge prep on a steel door without accidently doing a face bore into the door. Option ND1: Narrow Door Hinge Only Prep:Narrow Door System: Adds mechanism and programming for a narrow door mode to automatically accommodate doors as narrow as 1'0", but without lock processing. Includes complete secondary feed belt system on the lock detailing section of the 994X, and air cylinder adjustment of the lock side clamping fence with frame supports and rail bearings. Additional sensors and programming will be provided to confirm narrow width and to disable the standard door width sensors, and to disable the lock machining sequence. Narrow mode is selector switch controlled from the touch screen. Special Option: Ball Catch Drills:Drill assemblies are mounted onto the lock boring section for drilling left hand and right hand doors for drive-in ball catches. When selected the proper drill automatically pivots in to drill into the top of the door. For typical 6'8", 7'0" and 8'0" doors the process will be fully automatic against the standard lock and hinge stops. Some special door lengths or lock locations may create a mechanical conflict between the drills and feed belt supports. This will be automatically detected to pause the machine cycle and a message will pop-up on the computer screen describing the problem. This allows the operator to use manual buttons to jog the door into a position for ball catch drilling in manual over-ride mode Special Option: 5/4 jamb thickness:Machine will accommodate special thick jambs Special Option: Double bore depth:Adds double bore capability with two different hole diameters for lock and dead-bolt holes. A two stage bit is used, typically a 1-5/8" diameter three wing boring bit with a 1/2" a shank. A larger multi-spur counter-bore bit is clamped above the three wing cutter. Drilling shallow or deep with a selection at the touch screen drills either hole diameter.</OrderComment>
+    <QuoteNum>20521</QuoteNum>
+    <OrderHeadComment>Contract ID: 6681</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>046-00</MachinePartNum>
+    <SerialNumber>SN17-46-420</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>109123</JobNum>
+    <Description>700-C: FRAME ASSEMBLY MACHINE</Description>
+    <ProgramNum>46-PRG5_1</ProgramNum>
+    <ElecPrint>46-ELE5_1</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>105174</OrderNum>
+    <OrderLine>4</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-01-30T00:00:00</ShipDate>
+    <CustomerID>1061</CustomerID>
+    <CustomerName>Reeb Millwork Co. - Bethlehem</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID>LN-1-0005</LineID>
+    <OrderComment>Contract ID:6681Option C: Jamb Width Auto SelectorEnables easy switching for jamb widths between 4-9/16 In, 5-1/4 In, 6-9/16 In, and 7-1/4 In. Option D: 7 Ft and 8 Ft Door Frame CapacityAllows operator to quickly adjust end clamps from 6 Ft 8 In to 7 Ft or 8 Ft doors.  Quick changeover time of approximately one minute required. Option E: Dual Operator ControlsAllows operator to run the machine from either side. Option J: End Clamp SpacersFor use on 6 Ft 6 In doors.  Jamb spacer block connects to the end clamp pads.  Four spacers required. Special Option: 5/4 jamb thickness:Jamb fixtures to accommodate 5/4 thick jambs as well as rebated exterior jambs</OrderComment>
+    <QuoteNum>20521</QuoteNum>
+    <OrderHeadComment>Contract ID: 6681</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>065-00</MachinePartNum>
+    <SerialNumber>SN17-65-358</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>109124</JobNum>
+    <Description>960-3: AUTOMATIC STRIKE ROUTING MACHINE</Description>
+    <ProgramNum>65-PRG4_1</ProgramNum>
+    <ElecPrint>65-358-P4_1</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>460</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>105174</OrderNum>
+    <OrderLine>5</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-01-30T00:00:00</ShipDate>
+    <CustomerID>1061</CustomerID>
+    <CustomerName>Reeb Millwork Co. - Bethlehem</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID>LN-1-0005</LineID>
+    <OrderComment>Contract ID:6681Option F: Extra Jamb Index StopsTwo extra jamb index stops for machining dead-bolt strikes. Option H: Commercial PackageFour additional stops for 6’8”, 7’0” and 8’0” jambs. (Stops included on base machine for 6/8 doors,does not include extra stops for deadlock machining) Option O: High-Frequency Router2HP high-frequency router motor with drive. Special Option: Turret adjust for exterior or interior jambs:Add a quick change adjustment for jamb type to compensate differences in registration of the jamb end.</OrderComment>
+    <QuoteNum>20521</QuoteNum>
+    <OrderHeadComment>Contract ID: 6681</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>202-00</MachinePartNum>
+    <SerialNumber>SN17-202-008</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>109347</JobNum>
+    <Description>COMMANDER-3</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>105394</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-05-01T00:00:00</ShipDate>
+    <CustomerID>2810</CustomerID>
+    <CustomerName>North Pole Trim and Supplies</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Contract ID:6545Customer will purchase a Machinery Service Contract Subscription ("Service Contract") from KVAL. The Service Contract will be in KVAL's standard form. Customer understands that unless it acquires the Subscription Contract, KVAL will not be able or obligated to service the machinery Canada. If Customer fails or refuses to enter the Service Contract, KVAL will have no obligation to service or replace the machinery or any of the Equipment, and will be released from all of its obligation to do so under the terms of the Canada Limited Warranty and After-Sales Service Agreement.</OrderComment>
+    <QuoteNum>20554</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>020-00</MachinePartNum>
+    <SerialNumber>SN17-20-453</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>110201</JobNum>
+    <Description>HANDLER: DOOR FEEDER</Description>
+    <ProgramNum>20-PRG20_7</ProgramNum>
+    <ElecPrint>20-453-P20_7</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>460</ThreePHVolt>
+    <ThreePHAmp>5.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>106719</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-02-28T00:00:00</ShipDate>
+    <CustomerID>39</CustomerID>
+    <CustomerName>American Building Supply-Cedar Ave</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option A: Reverse Stack
+In a pre-hanging operation this places the stack of doors on the operator side of a Commander or F-Series machine.
+ 
+Option B: Reverse Feed Direction
+Reverses the feed direction of the powered roll table and changes the positions of the door sensing photo eyes. It is required when choosing Handler Option A for use with a standard feed (left to right) in a Commander or F-Series line.
+ 
+Option H: Remote Switch for Manual Feed-Through
+Allows door to be fed manually from the end of the machine.</OrderComment>
+    <QuoteNum>20721</QuoteNum>
+    <OrderHeadComment>Contract ID: 6843</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>204-00</MachinePartNum>
+    <SerialNumber>SN17-204-017</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>110202</JobNum>
+    <Description>994-X: SERVO CONTROLLED DOOR PRE HANGING MACHINE</Description>
+    <ProgramNum>204-P1_7</ProgramNum>
+    <ElecPrint>204-017-P1_6</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>460</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>106719</OrderNum>
+    <OrderLine>2</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-02-28T00:00:00</ShipDate>
+    <CustomerID>39</CustomerID>
+    <CustomerName>American Building Supply-Cedar Ave</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option A: Six-Shooter Screw Gun for 3-1/2" X 3-1/2" Hinge
+To attach 3-1/2" X 3-1/2" hinges to the door and jamb, No. 9 by 3/4" long flat head screws are automatically sorted and fed, six at a time, to the screw gun. Operator manually places the hinge onto the magnetic indexing fixture and then rolls and pivots the Six Shooter into an "H" block at each hinge location to attach the hinges. Pressing the 'Reset' switch then raises the Six Shooter and feeds a set of six screws for the attachment of the next hinge. 
+  NOTE: Requires Option D: Pre-Drill System for Six Shooter. 
+  
+  The Six Shooter, which is supported on ball bearing equipped steel wheels, is mounted on an overhead track that is precisely aligned to ensure the hinge is properly position into the pocket at each hinge location.
+  
+  NOTE: When an Eight Shooter Screw Gun is added to a 990F-3 (or 990F-4) equipped with a Six Shooter, the overhead track system must be extended in length on both ends to provide the necessary clearance for hinge applicator being used to travel the full length of the track to attach the hinges without  having to move the door and jamb.
+ 
+Option BC: Ball Catch Drills
+Drill assemblies are mounted onto the lock boring section for drilling left hand and right hand doors for drive-in ball catches. When selected the proper drill automatically pivots in to drill into the top of the door. Note, minimum door width for drilling is 18".
+ 
+Option CH: Corner Square Chisels
+Corner Square Option adds automatic corner squaring to the hinge routing sequence in both the door and jamb. Option includes two chisel mounting blocks per head, each one containing two chisels. As one chisel is operating, the inactive chisel is in the reveal between the door and jamb. For instance, when you are squaring the upper right corner in the jamb, the lower right chisel will be in the reveal. When the lower right chisel is squaring the lower right corner in the door, the upper right chisels in in the reveal. Although two chisels are paired together in one mounting block, each one is independently calibrated for vertical and horizontal travel as well as depth. 
+  
+  Use of the chisels will add approximately 4 seconds to the overall cycle time. Chisels automatically switch between pocket sizes so simply selecting chisels on or off is all that's required.
+ 
+Option CR: Counter Rotating Routers
+The standard 994X relies on automatic chip-out blocks clamped between door and jamb to protect the door face and jamb edges from chipping during hinge routing.  This option eliminates the chip-out blocks by adding four extra routers to the hinge detailing section with left hand rotation. As hinge pockets are routed, the left hand rotating routing tool is used to minimize chipping of the door face or jamb edge. This option is recommended for all applications including through cut hinge pockets, but cannot be combined with automatic hinge corner squaring (Option CH) due to space constraints imposed by hinge center distances.
+ 
+Option IL: Door Hand Indicator Light
+Light will be mounted on the out-feed end of the 990-F4 that can be seen by the 700-C Assembly Table operator. The light will be on when the door in the 990-F4 is being machined as a right hand door and off for a left hand door.
+ 
+Option ND1: Narrow Door Mode for 1'0" Doors
+Narrow Door System: Adds mechanism and programming for a narrow door mode to automatically accommodate doors as narrow as 1'0", but without lock processing. Includes complete secondary feed belt system on the lock detailing section of the 994X, and air cylinder adjustment of the lock side clamping fence with frame supports and rail bearings. Additional sensors and programming will be provided to confirm narrow width and to disable the standard door width sensors, and to disable the lock machining sequence. Narrow mode is selector switch controlled from the touch screen.
+ 
+Option O: Door Blow-Off System
+Air blow-off tube cleans dust and chips from top of door as it feeds out of the 994-X.
+ 
+Option W: Hinge Stops for 6'8", 7'0" &amp; 8'0" Doors
+This option is limited to certain hinge pocket locations. Hinge location specifications need to be submitted in order to determine if they can be accommodated with the 994-X.
+ 
+Option Z: Screw-Changing Hopper for Six Shooter
+Screw-changing hopper for changing screw colors.
+ 
+Option R: Three Degree Bevel
+Machine will be fixed at 3 degree's.</OrderComment>
+    <QuoteNum>20721</QuoteNum>
+    <OrderHeadComment>Contract ID: 6843</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>046-00</MachinePartNum>
+    <SerialNumber>SN17-46-422</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>110203</JobNum>
+    <Description>700-C: FRAME ASSEMBLY MACHINE</Description>
+    <ProgramNum>46-PRG5_1</ProgramNum>
+    <ElecPrint>46-ELE5_1</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>106719</OrderNum>
+    <OrderLine>3</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-02-28T00:00:00</ShipDate>
+    <CustomerID>39</CustomerID>
+    <CustomerName>American Building Supply-Cedar Ave</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option C: Jamb Width Auto Selector
+Enables easy switching for jamb widths between 4-9/16 In, 5-1/4 In, 6-9/16 In, and 7-1/4 In.
+ 
+Option D: 7 Ft and 8 Ft Door Frame Capacity
+Allows operator to quickly adjust end clamps from 6 Ft 8 In to 7 Ft or 8 Ft doors.  Quick changeover time of approximately one minute required.
+ 
+Option: Second Width Adjust Valve
+Place a secondary valve for width adjust control on opposite fence of operator.</OrderComment>
+    <QuoteNum>20721</QuoteNum>
+    <OrderHeadComment>Contract ID: 6843</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>219-00</MachinePartNum>
+    <SerialNumber>SN17-219-017</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>110204</JobNum>
+    <Description>RT-Z: ROLL TABLE</Description>
+    <ProgramNum>NA</ProgramNum>
+    <ElecPrint>NA</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>106719</OrderNum>
+    <OrderLine>4</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-02-28T00:00:00</ShipDate>
+    <CustomerID>39</CustomerID>
+    <CustomerName>American Building Supply-Cedar Ave</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20721</QuoteNum>
+    <OrderHeadComment>Contract ID: 6843</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>201-00</MachinePartNum>
+    <SerialNumber>SN17-201-019</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>110266</JobNum>
+    <Description>558: DOOR SIZER</Description>
+    <ProgramNum>201-PRG1_4</ProgramNum>
+    <ElecPrint>201-019-P1_4</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>460</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>106776</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-01-20T00:00:00</ShipDate>
+    <CustomerID>1039</CustomerID>
+    <CustomerName>Wausau Supply Company-Weston Plant</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20728</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>020-00</MachinePartNum>
+    <SerialNumber>SN17-20-454</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>110277</JobNum>
+    <Description>HANDLER: DOOR FEEDER</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>208</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>106785</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-05-02T00:00:00</ShipDate>
+    <CustomerID>2143</CustomerID>
+    <CustomerName>Stier Supply Company</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20722</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>204-00</MachinePartNum>
+    <SerialNumber>SN17-204-018</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>110278</JobNum>
+    <Description>994-X: SERVO CONTROLLED DOOR PRE HANGING MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>106785</OrderNum>
+    <OrderLine>2</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-05-02T00:00:00</ShipDate>
+    <CustomerID>2143</CustomerID>
+    <CustomerName>Stier Supply Company</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option A: Six-Shooter Screw Gun for 3-1/2" X 3-1/2" Hinge
+To attach 3-1/2" X 3-1/2" hinges to the door and jamb, No. 9 by 3/4" long flat head screws are automatically sorted and fed, six at a time, to the screw gun. Operator manually places the hinge onto the magnetic indexing fixture and then rolls and pivots the Six Shooter into an "H" block at each hinge location to attach the hinges. Pressing the 'Reset' switch then raises the Six Shooter and feeds a set of six screws for the attachment of the next hinge. 
+  NOTE: Requires Option D: Pre-Drill System for Six Shooter. 
+  
+  The Six Shooter, which is supported on ball bearing equipped steel wheels, is mounted on an overhead track that is precisely aligned to ensure the hinge is properly position into the pocket at each hinge location.
+  
+  NOTE: When an Eight Shooter Screw Gun is added to a 990F-3 (or 990F-4) equipped with a Six Shooter, the overhead track system must be extended in length on both ends to provide the necessary clearance for hinge applicator being used to travel the full length of the track to attach the hinges without  having to move the door and jamb.
+ 
+Option CH: Corner Square Chisels
+Corner Square Option adds automatic corner squaring to the hinge routing sequence in both the door and jamb. Option includes two chisel mounting blocks per head, each one containing two chisels. As one chisel is operating, the inactive chisel is in the reveal between the door and jamb. For instance, when you are squaring the upper right corner in the jamb, the lower right chisel will be in the reveal. When the lower right chisel is squaring the lower right corner in the door, the upper right chisels in in the reveal. Although two chisels are paired together in one mounting block, each one is independently calibrated for vertical and horizontal travel as well as depth. 
+  
+  Use of the chisels will add approximately 4 seconds to the overall cycle time. Chisels automatically switch between pocket sizes so simply selecting chisels on or off is all that's required.
+ 
+Option CR: Counter Rotating Routers
+The standard 994X relies on automatic chip-out blocks clamped between door and jamb to protect the door face and jamb edges from chipping during hinge routing.  This option eliminates the chip-out blocks by adding four extra routers to the hinge detailing section with left hand rotation. As hinge pockets are routed, the left hand rotating routing tool is used to minimize chipping of the door face or jamb edge. This option is recommended for all applications including through cut hinge pockets, but cannot be combined with automatic hinge corner squaring (Option CH) due to space constraints imposed by hinge center distances.
+ 
+Option IL: Door Hand Indicator Light
+Light will be mounted on the out-feed end of the 990-F4 that can be seen by the 700-C Assembly Table operator. The light will be on when the door in the 990-F4 is being machined as a right hand door and off for a left hand door.
+ 
+Option O: Door Blow-Off System
+Air blow-off tube cleans dust and chips from top of door as it feeds out of the 994-X.
+ 
+Option R1:  Zero &amp; Three Degree Hinge Routing
+Price includes PLC logic and controls to allow front hinge routing section to rout on either a 0 degree or 3 degree angle. 
+  Hinges will be flush mounted when installed on doors with either square edge or 3 degree bevel on hinge side.
+ 
+Option W: Hinge Stops for 6'8", 7'0" &amp; 8'0" Doors
+This option is limited to certain hinge pocket locations. Hinge location specifications need to be submitted in order to determine if they can be accommodated with the 994-X.
+ 
+Add Second Six Screw Hopper
+Adds a second screw hopper next to the standard screw hopper above the six shooter screw gun. Both hoppers travel with the six shooter. A selector switch on the six screwdriver selects either hopper for instant screw color change.</OrderComment>
+    <QuoteNum>20722</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>046-00</MachinePartNum>
+    <SerialNumber>SN17-46-423</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>110279</JobNum>
+    <Description>700-C: FRAME ASSEMBLY MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint>46-423-P5_1</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>106785</OrderNum>
+    <OrderLine>3</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-05-02T00:00:00</ShipDate>
+    <CustomerID>2143</CustomerID>
+    <CustomerName>Stier Supply Company</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option C: Jamb Width Auto Selector
+Enables easy switching for jamb widths between 4-9/16 In, 5-1/4 In, 6-9/16 In, and 7-1/4 In.
+ 
+Option D: 7 Ft and 8 Ft Door Frame Capacity
+Allows operator to quickly adjust end clamps from 6 Ft 8 In to 7 Ft or 8 Ft doors.  Quick changeover time of approximately one minute required.
+ 
+</OrderComment>
+    <QuoteNum>20722</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>065-00</MachinePartNum>
+    <SerialNumber>SN17-65-361</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>110281</JobNum>
+    <Description>960-3: AUTOMATIC STRIKE ROUTING MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>106785</OrderNum>
+    <OrderLine>4</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-05-02T00:00:00</ShipDate>
+    <CustomerID>2143</CustomerID>
+    <CustomerName>Stier Supply Company</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment> Option A: Split Jamb Stapler with Side Clamp
+Price does not include wide-crown staple guns.
+ 
+Option H: Commercial Package
+Four additional stops for 6’8”, 7’0” and 8’0” jambs. (Stops included on base machine for 6/8 doors,does not include extra stops for deadlock machining)
+ 
+Option O: High-Frequency Router
+2HP high-frequency router motor with drive.</OrderComment>
+    <QuoteNum>20722</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>146-00</MachinePartNum>
+    <SerialNumber>SN17-146-048</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>110582</JobNum>
+    <Description>979-2: MITER TRIM SAW</Description>
+    <ProgramNum>146-P6_1</ProgramNum>
+    <ElecPrint>146-048-P6_1</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>208</ThreePHVolt>
+    <ThreePHAmp>27.80</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107175</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-03-07T00:00:00</ShipDate>
+    <CustomerID>2811</CustomerID>
+    <CustomerName>84 Lumber</CustomerName>
+    <AirPrint>146-00-AIR6</AirPrint>
+    <CFM>3</CFM>
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20772</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>SN16-218-001</MachinePartNum>
+    <SerialNumber>SN16-218-001</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>116517</JobNum>
+    <Description>AUTOMATIC DOOR INVERT STATION, TAYLOR BLDG - WEST BRANCH, MI</Description>
+    <ProgramNum>NA</ProgramNum>
+    <ElecPrint>218-001-P-NA</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>460</ThreePHVolt>
+    <ThreePHAmp>1.20</ThreePHAmp>
+    <Notes>PLC control is from the DL-NCDNotes ID: 6204</Notes>
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>98899</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2016-07-29T00:00:00</ShipDate>
+    <CustomerID>786</CustomerID>
+    <CustomerName>Taylor Building Products - MI</CustomerName>
+    <ShipToCustomerID>786</ShipToCustomerID>
+    <ShipToCustomerName>Taylor Building Products - MI</ShipToCustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>0</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>SN16-210-003</MachinePartNum>
+    <SerialNumber>SN16-210-003</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>116518</JobNum>
+    <Description>ENDEAVOR, TAYLOR BLDG - WEST BRANCH, MI</Description>
+    <ProgramNum>210-P1_3</ProgramNum>
+    <ElecPrint>210-003-P1_3</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>460</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>98899</OrderNum>
+    <OrderLine>2</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2016-07-29T00:00:00</ShipDate>
+    <CustomerID>786</CustomerID>
+    <CustomerName>Taylor Building Products - MI</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>0</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>SN16-35-086</MachinePartNum>
+    <SerialNumber>SN16-35-086</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>116520</JobNum>
+    <Description>ON-3, TAYLOR BLDG - WEST BRANCH, MI</Description>
+    <ProgramNum>35-P12_1</ProgramNum>
+    <ElecPrint>35-086-P12_1</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>460</ThreePHVolt>
+    <ThreePHAmp>25.30</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>98899</OrderNum>
+    <OrderLine>4</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2016-07-29T00:00:00</ShipDate>
+    <CustomerID>786</CustomerID>
+    <CustomerName>Taylor Building Products - MI</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>0</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>SN16-193-009</MachinePartNum>
+    <SerialNumber>SN16-193-009</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>116521</JobNum>
+    <Description>DL-NCD, TAYLOR BLDG - WEST BRANCH, MI</Description>
+    <ProgramNum>193-P2_1</ProgramNum>
+    <ElecPrint>193-009-P2_1</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>460</ThreePHVolt>
+    <ThreePHAmp>14.10</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>98899</OrderNum>
+    <OrderLine>6</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2016-07-29T00:00:00</ShipDate>
+    <CustomerID>786</CustomerID>
+    <CustomerName>Taylor Building Products - MI</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>0</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>065-00</MachinePartNum>
+    <SerialNumber>SN17-65-362</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117112</JobNum>
+    <Description>960-3: AUTOMATIC STRIKE ROUTING MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107657</OrderNum>
+    <OrderLine>4</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-06T00:00:00</ShipDate>
+    <CustomerID>2320</CustomerID>
+    <CustomerName>84 Lumber</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment> Option A: Split Jamb Stapler with Side Clamp
+Price does not include wide-crown staple guns.
+ 
+Option H: Commercial Package
+Four additional stops for 6’8”, 7’0” and 8’0” jambs. (Stops included on base machine for 6/8 doors,does not include extra stops for deadlock machining)
+ 
+Option O: High-Frequency Router
+2HP high-frequency router motor with drive.
+ 
+Option: Tooling and Lubrication Package
+Please review with your KVAL consultant to determine your needs.</OrderComment>
+    <QuoteNum>20817</QuoteNum>
+    <OrderHeadComment>Contract ID:6906Durham, NC</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>065-00</MachinePartNum>
+    <SerialNumber>SN17-65-363</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117113</JobNum>
+    <Description>960-3: AUTOMATIC STRIKE ROUTING MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>0</OrderNum>
+    <OrderLine>0</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate xsi:nil="true" />
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <QuoteNum xsi:nil="true" />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>020-00</MachinePartNum>
+    <SerialNumber>SN17-20-455</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117228</JobNum>
+    <Description>HANDLER: DOOR FEEDER</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107641</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-15T00:00:00</ShipDate>
+    <CustomerID>712</CustomerID>
+    <CustomerName>Shuster's Building Component</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option H: Remote Switch for Manual Feed-Through
+Allows door to be fed manually from the end of the machine.
+ 
+Option L: Raised Molding Capability
+"Handler will accommodate doors with raised moldings up to 3/4"" high on one side or both sides.
+The Handler feed table will be revised to include rubber covered rolls on close centers to support the door on the molding. The clamp support pads will be increased in size and the standard rubber pads replaced with 1"" thick foam rubber.
+NOTE: If Handler is used to feed a 555 Door Sizer or 558 Door Sizer option R powered in-feed extension is required."
+ 
+Option S: Short Boom Version
+This option makes a short boom version of the standard Handler Door Feeder. It will accommodate door stacks up to 65" high. Overall height of machine will be 95" from floor to top of the horizontal tube. Selection of this option deducts $2,000 off of the Handler's base price.
+ 
+Option T: Extended Control Cable
+"Extended cable length required when the 555 Door Sizer or 558 Door Sizer is included in the pre-hanging line so the control panel for the Handler can be mounted next to the door pre-hanging machine control panel.
+NOTE: This option is required when the 555 Door Sizer or 558 Door Sizer is installed between the Handler and the door pre-hanging machine."
+ 
+Mail Slot:
+3'6" door slabs need to be manually fed through a mail slot.</OrderComment>
+    <QuoteNum>20791</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>191-00</MachinePartNum>
+    <SerialNumber>SN17-191-004</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117229</JobNum>
+    <Description>MLX: MULTI POINT LOCK ROUTER</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107641</OrderNum>
+    <OrderLine>2</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-15T00:00:00</ShipDate>
+    <CustomerID>712</CustomerID>
+    <CustomerName>Shuster's Building Component</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option B: Doors with Proud Mouldings
+Adds height adjustment to the infeed table with a servo motor, ball screw and bearing support system. Table height is programmable with touch screen selections for various moulding profiles, or a custom dimension can be entered. Maximum moulding height above (or below) door face is 3/4. A minimum 4 gap is required from the door edge to any protruding mouldings.</OrderComment>
+    <QuoteNum>20791</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>205-00</MachinePartNum>
+    <SerialNumber>SN17-205-005</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117230</JobNum>
+    <Description>ACRO-HD</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107641</OrderNum>
+    <OrderLine>3</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-15T00:00:00</ShipDate>
+    <CustomerID>712</CustomerID>
+    <CustomerName>Shuster's Building Component</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option A: Door Frame Assembly Fixtures
+Adds indexing fixtures for manual attachment of the hinge jamb to the door and also adds cylinder operated door support fixtures at each corner of the machine to align sill, header and both leg jambs for frame assembly. Fixtures automatically compensate for 6'8", 7'0" &amp; 8'0" door lengths. Also included are UHMW slides and rollers for out-swing door units.
+ 
+Steel Door Frame
+Machine needs to allow assembly of inswing steel door frames and exit to MDA6 tilt up.</OrderComment>
+    <QuoteNum>20791</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>193-00</MachinePartNum>
+    <SerialNumber>SN17-193-011</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117231</JobNum>
+    <Description>DL-NCD: NUMERICALLY CONTROLLED CUTOUT MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107641</OrderNum>
+    <OrderLine>4</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-15T00:00:00</ShipDate>
+    <CustomerID>712</CustomerID>
+    <CustomerName>Shuster's Building Component</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option A: Door Clean-off with Air Nozzles
+Dual manifolds with air nozzles are mounted at out-feed end of DL-NCD to blow of face of the door as it exits.</OrderComment>
+    <QuoteNum>20791</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>117-00</MachinePartNum>
+    <SerialNumber>SN17-117-008</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117232</JobNum>
+    <Description>MDA-6: DOOR PRE HANGING MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107641</OrderNum>
+    <OrderLine>5</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-15T00:00:00</ShipDate>
+    <CustomerID>712</CustomerID>
+    <CustomerName>Shuster's Building Component</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option B: Outswing Door Support
+Rollers and Delrin rails pivot up in seconds to transport inverted door frames from the light install station to the pivot table.  Standard Acrobat requires outswings to be lifted and carried between stations.
+ 
+Option HD: Hydraulic Pump and Tilt Cylinder  
+Replaces the standard air cylinder tilt mechanism with a hydraulic pump and tilt cylinder operated with an two electric foot pedal for up and down. Much more heavy duty that the standard cylinder and required for 8'0" doors, or doors heavier than 100lbs including frame 
+ 
+Option D: 8' Door Capacity
+Note: Also requires Option HD be ordered at the same time to provide hydraulic tilt up system. 
+ 
+ 
+Option H: Fold-Down Sill Support Plate
+ 
+Special Option: Hinge Jamb Staging Brackets &amp; Door Clamp
+Adds brackets and clamps to make this station dual purpose: as both a tilt-up exit station (for outswings and 3'6" doors) or as a station to fasten hinge jambs to doors for standard inswings destined for the 700DC frame assembly station.</OrderComment>
+    <QuoteNum>20791</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>073-00</MachinePartNum>
+    <SerialNumber>SN17-73-069</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117233</JobNum>
+    <Description>700-DC: FRAME ASSEMBLY MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107641</OrderNum>
+    <OrderLine>6</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-15T00:00:00</ShipDate>
+    <CustomerID>712</CustomerID>
+    <CustomerName>Shuster's Building Component</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option D1: 6'6" to 8'0" Moving Head End
+Head end clamp assemblies with staple guns will be mounted on linear bearing shafts. Each head end clamp assembly will have stops for 6'6", 6'8", 7'0" &amp; 8'0" door units. The clamp assemblies will be held in position with pins that can be quickly removed without the aid of tools.
+  Price includes the installation on the right side of the 700-DC (When viewed from the in-feed end) a third Forward/Reverse foot switch, a 'Fire' switch for in-feed end staple guns, and a 'Reset' switch.
+ 
+Option E: 8-3/8" Wide Jamb Capacity
+700-DC will accomodate jambs that vary in width from 4-9/16" to 8-3/8". Only the jamb width adjust fixtures will be modified to accomodate the 8-3/8" wide jambs. The staple gun travel assembly and the staple firing assembly will not be changed. If necessary an additional staple can be added at each corner of the 8-3/8" wide frame after it exits the 700-DC.
+ 
+Special Features:
+Customer currently screws door frame together. Most frames are purchased with jamb ends predrilled for screws. Important that nailing patterns exist to place staples between holes.</OrderComment>
+    <QuoteNum>20791</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>018-00</MachinePartNum>
+    <SerialNumber>SN17-18-081</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117234</JobNum>
+    <Description>MDA-M: WORK STATION</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107641</OrderNum>
+    <OrderLine>7</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-15T00:00:00</ShipDate>
+    <CustomerID>712</CustomerID>
+    <CustomerName>Shuster's Building Component</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20791</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>117-00</MachinePartNum>
+    <SerialNumber>SN17-117-009</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117235</JobNum>
+    <Description>MDA-6: DOOR PRE HANGING MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107641</OrderNum>
+    <OrderLine>8</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-15T00:00:00</ShipDate>
+    <CustomerID>712</CustomerID>
+    <CustomerName>Shuster's Building Component</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option HD: Hydraulic Pump and Tilt Cylinder
+ Replaces the standard air cylinder tilt mechanism with a hydraulic pump and tilt cylinder operated with an two electric foot pedal for up and down. Much more heavy duty that the standard cylinder and required for 8'0" doors, or doors heavier than 100lbs including frame and glass. 
+ 
+Option D: 8' Door Capacity
+ Note: Also requires Option HD be ordered at the same time to provide hydraulic tilt up system.</OrderComment>
+    <QuoteNum>20791</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>086-00</MachinePartNum>
+    <SerialNumber>SN17-86-079</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117236</JobNum>
+    <Description>MDA-1: STEEL DOOR PRE HANGING MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107641</OrderNum>
+    <OrderLine>9</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-15T00:00:00</ShipDate>
+    <CustomerID>712</CustomerID>
+    <CustomerName>Shuster's Building Component</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Custom Option: 8' Doors
+Need to provide double tilt down stops for 6'8" and 8'0" door lengths</OrderComment>
+    <QuoteNum>20791</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>089-00</MachinePartNum>
+    <SerialNumber>SN17-89-027</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117237</JobNum>
+    <Description>RKG-1: ENTRY DOOR ASSEMBLY STATION</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107641</OrderNum>
+    <OrderLine>10</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-15T00:00:00</ShipDate>
+    <CustomerID>712</CustomerID>
+    <CustomerName>Shuster's Building Component</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option C: Outswing Door Option
+The sill end of the RKG-1 will be modified to accomodate an outswing sill, with a projection of 1-1/4" maximum from the outside of the jamb.
+  
+  Standard option on all RKG-1's
+ 
+Option A: 6'8", 7'0", 8'0" Door Height Capacity</OrderComment>
+    <QuoteNum>20791</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>095-00</MachinePartNum>
+    <SerialNumber>SN17-95-027</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117238</JobNum>
+    <Description>RKG-2: ENTRY DOOR BRICK MOLD STATION</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107641</OrderNum>
+    <OrderLine>11</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-15T00:00:00</ShipDate>
+    <CustomerID>712</CustomerID>
+    <CustomerName>Shuster's Building Component</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option B: Transom Support
+Accomodates up to 12" height; for 6'8" doors only.
+ 
+Option D: Outswing Door Option
+The sill end of the RKG-2 will be modified to accomodate an outswing sill, with a projection of 1-1/4" maximum from the outside of the jamb.
+  
+  Standard option on all RKG-2's
+  
+  **Outswing Door Notice**  When assembling an outswing door on this machine, a bottom skid board 1-1/8" thick must be applied to allow the outswing sill to pass through the remaining machinery.
+ 
+Option A: 6'8", 7'0", 8'0" Door Height Capacity</OrderComment>
+    <QuoteNum>20791</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>097-00</MachinePartNum>
+    <SerialNumber>SN17-97-027</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117239</JobNum>
+    <Description>RKG-3: ENTRY DOOR TILT UP STATION</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107641</OrderNum>
+    <OrderLine>12</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-15T00:00:00</ShipDate>
+    <CustomerID>712</CustomerID>
+    <CustomerName>Shuster's Building Component</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option A: Capacity
+ 8'0 Door Capacity</OrderComment>
+    <QuoteNum>20791</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>123-00</MachinePartNum>
+    <SerialNumber>SN17-123-022</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117240</JobNum>
+    <Description>RKG-3A</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107641</OrderNum>
+    <OrderLine>13</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-15T00:00:00</ShipDate>
+    <CustomerID>712</CustomerID>
+    <CustomerName>Shuster's Building Component</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20791</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>098-00</MachinePartNum>
+    <SerialNumber>SN17-98-021</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117241</JobNum>
+    <Description>RKG-4: ENTRY DOOR UPRIGHT CLAMP CONVEYOR</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107641</OrderNum>
+    <OrderLine>14</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-15T00:00:00</ShipDate>
+    <CustomerID>712</CustomerID>
+    <CustomerName>Shuster's Building Component</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option E: 2nd Sidelight Clamp Assembly
+A second adjustable side light clamp assembly will be installed on the Entrada RKG-4. The second clamp assembly may be used to simultaneously clamp two side lights on either side of a single door unit up to 3'-0" wide. The second clamp may also be used with the primary clamp to install 3'-0" wide side light panels by pressing on both edges of the panel to properly seat it into the frame.  The second side light clamp assembly will accommodate panels that vary in height from 6'-6" high to 8'-0" high.
+ 
+Option A: 8'0" Door Capacity</OrderComment>
+    <QuoteNum>20791</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>099-00</MachinePartNum>
+    <SerialNumber>SN17-99-026</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117242</JobNum>
+    <Description>RKG-5: TILT &amp; PACKAGE STATION</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107641</OrderNum>
+    <OrderLine>15</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-15T00:00:00</ShipDate>
+    <CustomerID>712</CustomerID>
+    <CustomerName>Shuster's Building Component</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option A:
+8'-0 Door Height Capacity
+ 
+Option B: Lifting Mechanism
+To raise sill up to a maximum of 9-3/4" above floor when door unit is in the vertical position. For door units up to 6'0" wide. For door widths over 6'0" wide, please call for quote.
+ 
+Option D: Transom Access &amp; Mounting Feature
+Provides frame extensions to support transoms and attach them by practiced methods, then tilt up the assembled unit to a near vertical position.  Size limitations apply for transoms; maximum width for nominal 6' entry and maximum height for 3' tall round or rectangular transom on a 6'8" door.</OrderComment>
+    <QuoteNum>20791</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>124-00</MachinePartNum>
+    <SerialNumber>SN17-124-025</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117243</JobNum>
+    <Description>CROSS TRANSFER TABLE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107641</OrderNum>
+    <OrderLine>16</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-15T00:00:00</ShipDate>
+    <CustomerID>712</CustomerID>
+    <CustomerName>Shuster's Building Component</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Special Detail: 8' 0 Doors
+This table needs rolls to allow cross transfer of both 6'8 and 8'0 door slabs. Door may also have T astragal attached.</OrderComment>
+    <QuoteNum>20791</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>125-00</MachinePartNum>
+    <SerialNumber>SN17-125-020</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117244</JobNum>
+    <Description>CROSS TRANSFER CONVEYOR</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107641</OrderNum>
+    <OrderLine>17</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-15T00:00:00</ShipDate>
+    <CustomerID>712</CustomerID>
+    <CustomerName>Shuster's Building Component</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20791</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>125-00</MachinePartNum>
+    <SerialNumber>SN17-125-021</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117245</JobNum>
+    <Description>CROSS TRANSFER CONVEYOR</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107641</OrderNum>
+    <OrderLine>18</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-15T00:00:00</ShipDate>
+    <CustomerID>712</CustomerID>
+    <CustomerName>Shuster's Building Component</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20791</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>124-00</MachinePartNum>
+    <SerialNumber>SN17-124-026</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117246</JobNum>
+    <Description>CROSS TRANSFER TABLE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107641</OrderNum>
+    <OrderLine>19</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-15T00:00:00</ShipDate>
+    <CustomerID>712</CustomerID>
+    <CustomerName>Shuster's Building Component</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20791</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>020-00</MachinePartNum>
+    <SerialNumber>SN17-20-456</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117247</JobNum>
+    <Description>HANDLER: DOOR FEEDER</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107656</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-05-09T00:00:00</ShipDate>
+    <CustomerID>2258</CustomerID>
+    <CustomerName>Gilcrest/Jewett Lumber Co.</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option A: Reverse Stack
+In a pre-hanging operation this places the stack of doors on the operator side of a Commander or F-Series machine.
+ 
+Option H: Remote Switch for Manual Feed-Through
+Allows door to be fed manually from the end of the machine.
+ 
+Option: Tooling and Lubrication Package
+Please review with your KVAL Consultant to determine your needs.
+ 
+Option: Spare Parts Package
+Please review with your KVAL Consultant to determine your needs.</OrderComment>
+    <QuoteNum>20814</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>201-00</MachinePartNum>
+    <SerialNumber>SN17-201-020</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117248</JobNum>
+    <Description>558: DOOR SIZER</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107656</OrderNum>
+    <OrderLine>2</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-05-09T00:00:00</ShipDate>
+    <CustomerID>2258</CustomerID>
+    <CustomerName>Gilcrest/Jewett Lumber Co.</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20814</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>204-00</MachinePartNum>
+    <SerialNumber>SN17-204-019</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117249</JobNum>
+    <Description>994-X: SERVO CONTROLLED DOOR PRE HANGING MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107656</OrderNum>
+    <OrderLine>3</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-05-09T00:00:00</ShipDate>
+    <CustomerID>2258</CustomerID>
+    <CustomerName>Gilcrest/Jewett Lumber Co.</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option A: Six-Shooter Screw Gun for 3-1/2" X 3-1/2" Hinge
+To attach 3-1/2" X 3-1/2" hinges to the door and jamb, No. 9 by 3/4" long flat head screws are automatically sorted and fed, six at a time, to the screw gun. Operator manually places the hinge onto the magnetic indexing fixture and then rolls and pivots the Six Shooter into an "H" block at each hinge location to attach the hinges. Pressing the 'Reset' switch then raises the Six Shooter and feeds a set of six screws for the attachment of the next hinge. 
+  NOTE: Requires Option D: Pre-Drill System for Six Shooter. 
+  
+  The Six Shooter, which is supported on ball bearing equipped steel wheels, is mounted on an overhead track that is precisely aligned to ensure the hinge is properly position into the pocket at each hinge location.
+  
+  NOTE: When an Eight Shooter Screw Gun is added to a 990F-3 (or 990F-4) equipped with a Six Shooter, the overhead track system must be extended in length on both ends to provide the necessary clearance for hinge applicator being used to travel the full length of the track to attach the hinges without  having to move the door and jamb.
+ 
+Option BC: Ball Catch Drills
+Drill assemblies are mounted onto the lock boring section for drilling left hand and right hand doors for drive-in ball catches. When selected the proper drill automatically pivots in to drill into the top of the door. Note, minimum door width for drilling is 18".
+ 
+Option CR: Counter Rotating Routers
+The standard 994X relies on automatic chip-out blocks clamped between door and jamb to protect the door face and jamb edges from chipping during hinge routing.  This option eliminates the chip-out blocks by adding four extra routers to the hinge detailing section with left hand rotation. As hinge pockets are routed, the left hand rotating routing tool is used to minimize chipping of the door face or jamb edge. This option is recommended for all applications including through cut hinge pockets, but cannot be combined with automatic hinge corner squaring (Option CH) due to space constraints imposed by hinge center distances.
+ 
+Option IL: Door Hand Indicator Light
+Light will be mounted on the out-feed end of the 990-F4 that can be seen by the 700-C Assembly Table operator. The light will be on when the door in the 990-F4 is being machined as a right hand door and off for a left hand door.
+ 
+Option ND1: Narrow Door Mode for 1'0" Doors
+Narrow Door System: Adds mechanism and programming for a narrow door mode to automatically accommodate doors as narrow as 1'0", but without lock processing. Includes complete secondary feed belt system on the lock detailing section of the 994X, and air cylinder adjustment of the lock side clamping fence with frame supports and rail bearings. Additional sensors and programming will be provided to confirm narrow width and to disable the standard door width sensors, and to disable the lock machining sequence. Narrow mode is selector switch controlled from the touch screen.
+ 
+Option O: Door Blow-Off System
+Air blow-off tube cleans dust and chips from top of door as it feeds out of the 994-X.
+ 
+Option R1:  Zero &amp; Three Degree Hinge Routing
+Price includes PLC logic and controls to allow front hinge routing section to rout on either a 0 degree or 3 degree angle. 
+  Hinges will be flush mounted when installed on doors with either square edge or 3 degree bevel on hinge side.
+ 
+Option Z: Screw-Changing Hopper for Six Shooter
+Screw-changing hopper for changing screw colors.</OrderComment>
+    <QuoteNum>20814</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>046-00</MachinePartNum>
+    <SerialNumber>SN17-46-424</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117250</JobNum>
+    <Description>700-C: FRAME ASSEMBLY MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107656</OrderNum>
+    <OrderLine>4</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-05-09T00:00:00</ShipDate>
+    <CustomerID>2258</CustomerID>
+    <CustomerName>Gilcrest/Jewett Lumber Co.</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option C: Jamb Width Auto Selector
+Enables easy switching for jamb widths between 4-9/16 In, 5-1/4 In, 6-9/16 In, and 7-1/4 In.
+ 
+Option D: 7 Ft and 8 Ft Door Frame Capacity
+Allows operator to quickly adjust end clamps from 6 Ft 8 In to 7 Ft or 8 Ft doors.  Quick changeover time of approximately one minute required.
+ 
+Spare Parts Package
+Please review with your KVAL consultant to determine your needs.
+ 
+Tooling and Lubrication Package
+Please review with your KVAL consultant to determine your needs.</OrderComment>
+    <QuoteNum>20814</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>219-00</MachinePartNum>
+    <SerialNumber>SN17-219-018</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117422</JobNum>
+    <Description>RT-Z: ROLL TABLE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108506</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-01-19T00:00:00</ShipDate>
+    <CustomerID>557</CustomerID>
+    <CustomerName>Masonite International - Northumberland</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option D: Side Guide Wheels
+Side Guide Wheels
+Two 3" diameter side guide wheels and brackets.</OrderComment>
+    <QuoteNum>20933</QuoteNum>
+    <OrderHeadComment>Contract ID: 6920</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>219-00</MachinePartNum>
+    <SerialNumber>SN17-219-019</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117423</JobNum>
+    <Description>RT-Z: ROLL TABLE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108901</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-01-18T00:00:00</ShipDate>
+    <CustomerID>443</CustomerID>
+    <CustomerName>Karona Inc.</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option D: Side Guide Wheels
+Two 3" diameter side guide wheels and brackets.</OrderComment>
+    <QuoteNum>20977</QuoteNum>
+    <OrderHeadComment>Contract ID: 6987</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>219-00</MachinePartNum>
+    <SerialNumber>SN17-219-020</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117424</JobNum>
+    <Description>RT-Z: ROLL TABLE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108901</OrderNum>
+    <OrderLine>2</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-01-18T00:00:00</ShipDate>
+    <CustomerID>443</CustomerID>
+    <CustomerName>Karona Inc.</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option X: Extended Length  
+Extends standard 70" table length to 80" and adds extra conveyor rolls.
+ 
+Spacers between rolls to eliminate pinchpoint</OrderComment>
+    <QuoteNum>20977</QuoteNum>
+    <OrderHeadComment>Contract ID: 6987</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>146-00</MachinePartNum>
+    <SerialNumber>SN17-146-049</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117425</JobNum>
+    <Description>979-2: MITER TRIM SAW</Description>
+    <ProgramNum>146-P6_1</ProgramNum>
+    <ElecPrint>146-049-P6_1</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>460</ThreePHVolt>
+    <ThreePHAmp>16.90</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108758</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-03-13T00:00:00</ShipDate>
+    <CustomerID>1259</CustomerID>
+    <CustomerName>Masonite International - Lawrenceville</CustomerName>
+    <AirPrint>146-00-AIR6</AirPrint>
+    <CFM>3</CFM>
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20960</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>020-00</MachinePartNum>
+    <SerialNumber>SN17-20-457</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117681</JobNum>
+    <Description>HANDLER: DOOR FEEDER</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107657</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-06T00:00:00</ShipDate>
+    <CustomerID>2320</CustomerID>
+    <CustomerName>84 Lumber</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option H: Remote Switch for Manual Feed-Through
+Allows door to be fed manually from the end of the machine.</OrderComment>
+    <QuoteNum>20817</QuoteNum>
+    <OrderHeadComment>Contract ID:6906Durham, NC</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>094-00</MachinePartNum>
+    <SerialNumber>SN17-94-110</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117682</JobNum>
+    <Description>990-F4: DOOR PRE HANGING MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107657</OrderNum>
+    <OrderLine>2</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-06T00:00:00</ShipDate>
+    <CustomerID>2320</CustomerID>
+    <CustomerName>84 Lumber</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option BC: Ball Catch Drills
+Drill assemblies are mounted onto the lock boring section for drilling left hand and right hand doors for drive-in ball catches. When selected the proper drill automatically pivots in to drill into the top of the door. Note: minimum door width is 18 for drilling.
+ 
+Option A: Six-Shooter Screw Gun for 3-1/2 X 3-1/2 Hinge
+To attach 3-1/2 X 3-1/2 hinges to the door and jamb, No. 9 by 3/4 long flat head screws are automatically sorted and fed, six at a time, to the screw gun. Operator manually places the hinge onto the magnetic indexing fixture and then rolls and pivots the Six Shooter into an H block at each hinge location to attach the hinges. Pressing the 'Reset' switch then raises the Six Shooter and feeds a set of six screws for the attachment of the next hinge.  NOTE: Requires Option D: Pre-Drill System for Six Shooter.   
+
+The Six Shooter, which is supported on ball bearing equipped steel wheels, is mounted on an overhead track that is precisely aligned to ensure the hinge is properly position into the pocket at each hinge location.   
+
+NOTE: When an Eight Shooter Screw Gun is added to a 990F-3 (or 990F-4) equipped with a Six Shooter, the overhead track system must be extended in length on both ends to provide the necessary clearance for each hinge applicator, to travel the full length of the door.
+ 
+Option B: Pushbutton Changeover from 3-1/2” to 4” Hinge Pockets
+Interior/exterior option.
+ 
+Option R: Three Degree Bevel
+Allows hinge jamb and door to be routed at 3 degrees. Eliminates the capability of 0 degrees. Six-Shooter or Eight-Shooter is also tilted to compensate for this. Requires Option D: Pre-Drill System for Six-Shooter or Option K1: Pre-Drill System for Eight-Shooter.
+ 
+Option D: Pre-Drill System for Six-Shooter
+Twenty-four holes are pre-drilled and hinge pockets are blown clean of any excess sawdust within five seconds following hinge pocket routing sequence for hinge screw mounting holes. This option is highly-recommended for all door and jamb materials.
+ 
+Option G: Automatic Positioning
+Door is power-fed into the machine and clamped into position. After the hinges are attached, the door and jamb automatically off-feed as the next door enters the machine.
+ 
+Option IL: Door Hand Indicator Light
+Light will be mounted on the out-feed end of the 990-F4 that can be seen by the 700-C Assembly Table operator. The light will be on when the door in the 990-F4 is being machined as a right hand door and off for a left hand door.
+ 
+Option O: Door Blow-Off System
+Air blow-off tube cleans dust and chips from top of door.
+ 
+Option T: High-Frequency Hinge Routers
+Four 1HP 230/380V High-Frequency Hinge Routing motors &amp; drive units with 1/2" collets.
+ 
+Option U: High-Frequency Bolt Plate Router
+One 1HP 230/380V high-frequency bolt plate routing motor &amp; drive unit with 1/2" collet.
+ 
+Option W: Hinge Stops for 6'8", 7'0" &amp; 8'0" Doors
+This option is limited to certain hinge pocket locations ~ Consult with your KVAL sales representative.
+ 
+Option Z: Screw-Changing Hopper for Six Shooter
+Screw-changing hopper for changing screw colors.
+ 
+Option: Tooling and Lubricant Package
+Option: Tooling and Lubricant Package
+ 
+Two 1/4" crown staple guns are mounted onto the jamb clamp brackets. 
+While clamped in the machine, staples will be driven into the back side of the split jamb to keep the male and female together.  
+The staple guns are fired with a single valve that is interlocked with a safety switch to disable the staple guns unless there is a jamb clamped in the machine. 
+
+Two staple guns with remote fires are required and are not included in the price of the option.</OrderComment>
+    <QuoteNum>20817</QuoteNum>
+    <OrderHeadComment>Contract ID:6906Durham, NC</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>046-00</MachinePartNum>
+    <SerialNumber>SN17-46-425</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117683</JobNum>
+    <Description>700-C: FRAME ASSEMBLY MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>107657</OrderNum>
+    <OrderLine>3</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-06T00:00:00</ShipDate>
+    <CustomerID>2320</CustomerID>
+    <CustomerName>84 Lumber</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option A: Duplex Edge Nailers
+Not recommended for MDF jambs.  Guns not included in price.
+ 
+Option C: Jamb Width Auto Selector
+Enables easy switching for jamb widths between 4-9/16 In, 5-1/4 In, 6-9/16 In, and 7-1/4 In.
+ 
+Option D: 7 Ft and 8 Ft Door Frame Capacity
+Allows operator to quickly adjust end clamps from 6 Ft 8 In to 7 Ft or 8 Ft doors.  Quick changeover time of approximately one minute required.
+ 
+Tooling and Lubrication Package
+Please review with your KVAL consultant to determine your needs.</OrderComment>
+    <QuoteNum>20817</QuoteNum>
+    <OrderHeadComment>Contract ID:6906Durham, NC</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>049-00</MachinePartNum>
+    <SerialNumber>SN01-49-074</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117701</JobNum>
+    <Description>979: MITER TRIM SAW</Description>
+    <ProgramNum>E-201</ProgramNum>
+    <ElecPrint>E-201</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>208</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes>Ship Date:2001-07-18</Notes>
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108069</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-01-06T00:00:00</ShipDate>
+    <CustomerID>2824</CustomerID>
+    <CustomerName>Chelsea Building Products</CustomerName>
+    <ShipToCustomerID>1039</ShipToCustomerID>
+    <ShipToCustomerName>Wausau Supply Company-Weston Plant</ShipToCustomerName>
+    <AirPrint>A-1B</AirPrint>
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>0</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>204-00</MachinePartNum>
+    <SerialNumber>SN17-204-020</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117904</JobNum>
+    <Description>994-X: SERVO CONTROLLED DOOR PRE HANGING MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108262</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-30T00:00:00</ShipDate>
+    <CustomerID>116</CustomerID>
+    <CustomerName>Brockway-Smith Co.-Hatfield</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option A: Six-Shooter Screw Gun for 3-1/2" X 3-1/2" Hinge
+To attach 3-1/2" X 3-1/2" hinges to the door and jamb, No. 9 by 3/4" long flat head screws are automatically sorted and fed, six at a time, to the screw gun. Operator manually places the hinge onto the magnetic indexing fixture and then rolls and pivots the Six Shooter into an "H" block at each hinge location to attach the hinges. Pressing the 'Reset' switch then raises the Six Shooter and feeds a set of six screws for the attachment of the next hinge. 
+  NOTE: Requires Option D: Pre-Drill System for Six Shooter. 
+  
+  The Six Shooter, which is supported on ball bearing equipped steel wheels, is mounted on an overhead track that is precisely aligned to ensure the hinge is properly position into the pocket at each hinge location.
+  
+  NOTE: When an Eight Shooter Screw Gun is added to a 990F-3 (or 990F-4) equipped with a Six Shooter, the overhead track system must be extended in length on both ends to provide the necessary clearance for hinge applicator being used to travel the full length of the track to attach the hinges without  having to move the door and jamb.
+ 
+Option BC: Ball Catch Drills
+Drill assemblies are mounted onto the lock boring section for drilling left hand and right hand doors for drive-in ball catches. When selected the proper drill automatically pivots in to drill into the top of the door. Note, minimum door width for drilling is 18".
+ 
+Option CH: Corner Square Chisels
+Corner Square Option adds automatic corner squaring to the hinge routing sequence in both the door and jamb. Option includes two chisel mounting blocks per head, each one containing two chisels. As one chisel is operating, the inactive chisel is in the reveal between the door and jamb. For instance, when you are squaring the upper right corner in the jamb, the lower right chisel will be in the reveal. When the lower right chisel is squaring the lower right corner in the door, the upper right chisels in in the reveal. Although two chisels are paired together in one mounting block, each one is independently calibrated for vertical and horizontal travel as well as depth. 
+  
+  Use of the chisels will add approximately 4 seconds to the overall cycle time. Chisels automatically switch between pocket sizes so simply selecting chisels on or off is all that's required.
+ 
+Option CR: Counter Rotating Routers
+The standard 994X relies on automatic chip-out blocks clamped between door and jamb to protect the door face and jamb edges from chipping during hinge routing.  This option eliminates the chip-out blocks by adding four extra routers to the hinge detailing section with left hand rotation. As hinge pockets are routed, the left hand rotating routing tool is used to minimize chipping of the door face or jamb edge. This option is recommended for all applications including through cut hinge pockets, but cannot be combined with automatic hinge corner squaring (Option CH) due to space constraints imposed by hinge center distances.
+ 
+Option E: Two-Stage Drilling
+Allows changeover for two different face bore sizes with a selection on the control panel. 
+  
+  Customer to specify 1-1/2" or 1-5/8" for dead bolt face bore when ordering. Standard lock boring bit is 2/1/8".
+ 
+Option IL: Door Hand Indicator Light
+Light will be mounted on the out-feed end of the 990-F4 that can be seen by the 700-C Assembly Table operator. The light will be on when the door in the 990-F4 is being machined as a right hand door and off for a left hand door.
+ 
+Option K: Eight-Shooter Screw Gun for 4" X 4" Hinge
+To attach 4" X 4" hinges to the door and jamb, No. 10 by 3/4" long flat head screws are automatically sorted and fed, eight (8) at a time, to the screw gun. Operator manually places the hinge onto the magnetic indexing fixture and then rolls and pivots the Eight Shooter into an "H" block at each hinge location to attach the hinges. Pressing the 'Reset' switch then raises the Eight Shooter and feeds a set of eight (8) screws for the attachment of the next hinge. 
+  NOTE: Requires Option K-1: Pre-Drill System for Eight Shooter.
+  
+  NOTE: The Eight Shooter will not feed No. 9 flat head screws properly. If No. 9 screws are to be used in the Eight Shooter it must be specified at time of order. 
+  
+  The Eight Shooter, which is supported on ball bearing equipped steel wheels, is mounted on an overhead track that is precisely aligned to ensure the hinge is properly positioned into the pocket at each hinge location. 
+  NOTE: When an Eight Shooter Screw Gun is added to the 994-X or 993-X equipped with a Six Shooter, the overhead track system must be extended in length on both ends to provide the necessary clearance for each hinge applicator to travel the full length of the
+ 
+Option ND1: Narrow Door Mode for 1'0" Doors
+Narrow Door System: Adds mechanism and programming for a narrow door mode to automatically accommodate doors as narrow as 1'0", but without lock processing. Includes complete secondary feed belt system on the lock detailing section of the 994X, and air cylinder adjustment of the lock side clamping fence with frame supports and rail bearings. Additional sensors and programming will be provided to confirm narrow width and to disable the standard door width sensors, and to disable the lock machining sequence. Narrow mode is selector switch controlled from the touch screen.
+ 
+Option O: Door Blow-Off System
+Air blow-off tube cleans dust and chips from top of door as it feeds out of the 994-X.
+ 
+Option R1:  Zero &amp; Three Degree Hinge Routing
+Price includes PLC logic and controls to allow front hinge routing section to rout on either a 0 degree or 3 degree angle. 
+  Hinges will be flush mounted when installed on doors with either square edge or 3 degree bevel on hinge side.
+ 
+Option UH: Top Hinge Dimension Different for 6'-8" and 8'-0" Door
+In-feed door and jamb stops will be moveable. Door stop will be cylinder actuated. 
+  NOTE: Specifications for hinge locations must be provided in order to prepare quotation.
+ 
+Option W: Hinge Stops for 6'8", 7'0" &amp; 8'0" Doors
+This option is limited to certain hinge pocket locations. Hinge location specifications need to be submitted in order to determine if they can be accommodated with the 994-X.
+ 
+Option Z: Screw-Changing Hopper for Six Shooter
+Screw-changing hopper for changing screw colors.
+ 
+Option Z1: Quick-Change Hopper for Eight Shooter
+Screw changing hopper for 8-Shooter allows for rapid change of screw colors.
+ 
+Option N: Weatherstrip Retaining Brackets</OrderComment>
+    <QuoteNum>20874</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>046-00</MachinePartNum>
+    <SerialNumber>SN17-46-426</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117905</JobNum>
+    <Description>700-C: FRAME ASSEMBLY MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108263</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-30T00:00:00</ShipDate>
+    <CustomerID>116</CustomerID>
+    <CustomerName>Brockway-Smith Co.-Hatfield</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option A: Duplex Edge Nailers
+Not recommended for MDF jambs.  Guns not included in price.
+ 
+Option C: Jamb Width Auto Selector
+Enables easy switching for jamb widths between 4-9/16 In, 5-1/4 In, 6-9/16 In, and 7-1/4 In.
+ 
+Option D: 7 Ft and 8 Ft Door Frame Capacity
+Allows operator to quickly adjust end clamps from 6 Ft 8 In to 7 Ft or 8 Ft doors.  Quick changeover time of approximately one minute required.
+ 
+Special Option: 5/4 Jamb Thickness
+Machine must process both flat standard jambs and thick 5/4 jambs.</OrderComment>
+    <QuoteNum>20877</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>040-00</MachinePartNum>
+    <SerialNumber>SN17-40-058</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117906</JobNum>
+    <Description>EDGE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108264</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-08-30T00:00:00</ShipDate>
+    <CustomerID>116</CustomerID>
+    <CustomerName>Brockway-Smith Co.-Hatfield</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option D: Point to Point Drill for Screw Holes
+Single 23,000 RPM three phase electric spindle drill. Programmed motion drills pilot holes in succession for hinge or lock face plate screws.
+ 
+Option J: Corner Square Chisels
+Four chisels, one for each corner latch plate mortise and hinge pockets. The correct chisel is auto selected for each corner and the depth of the plunge is set based on the machined depth of the mortise. Please Note: Option P is also required for this option.
+ 
+Option P: Upgrade To Patriot System
+This option upgrades the Edge Classic spindle support system to next generation called the Edge Patriot. Spindles are mounted vertically rather than horizontally and are supported on 25mm rail bearings. A key benefit is this version allows options for corner squaring and peck drilling for screw holes.    1234567 Option J: Corner Square Chisels</OrderComment>
+    <QuoteNum>20878</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>204-00</MachinePartNum>
+    <SerialNumber>SN17-204-021</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>117907</JobNum>
+    <Description>994-X: SERVO CONTROLLED DOOR PRE HANGING MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108265</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-06-20T00:00:00</ShipDate>
+    <CustomerID>75</CustomerID>
+    <CustomerName>Automated Building Components</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option A: Six-Shooter Screw Gun for 3-1/2" X 3-1/2" HingeTo attach 3-1/2" X 3-1/2" hinges to the door and jamb, No. 9 by 3/4" long flat head screws are automatically sorted and fed, six at a time, to the screw gun. Operator manually places the hinge onto the magnetic indexing fixture and then rolls and pivots the Six Shooter into an "H" block at each hinge location to attach the hinges. Pressing the 'Reset' switch then raises the Six Shooter and feeds a set of six screws for the attachment of the next hinge.   NOTE: Requires Option D: Pre-Drill System for Six Shooter.     The Six Shooter, which is supported on ball bearing equipped steel wheels, is mounted on an overhead track that is precisely aligned to ensure the hinge is properly position into the pocket at each hinge location.    NOTE: When an Eight Shooter Screw Gun is added to a 990F-3 (or 990F-4) equipped with a Six Shooter, the overhead track system must be extended in length on both ends to provide the necessary clearance for hinge applicator being used to travel the full length of the track to attach the hinges without  having to move the door and jamb. Option BC: Ball Catch DrillsDrill assemblies are mounted onto the lock boring section for drilling left hand and right hand doors for drive-in ball catches. When selected the proper drill automatically pivots in to drill into the top of the door. Note, minimum door width for drilling is 18". Option CH: Corner Square ChiselsCorner Square Option adds automatic corner squaring to the hinge routing sequence in both the door and jamb. Option includes two chisel mounting blocks per head, each one containing two chisels. As one chisel is operating, the inactive chisel is in the reveal between the door and jamb. For instance, when you are squaring the upper right corner in the jamb, the lower right chisel will be in the reveal. When the lower right chisel is squaring the lower right corner in the door, the upper right chisels in in the reveal. Although two chisels are paired together in one mounting block, each one is independently calibrated for vertical and horizontal travel as well as depth.     Use of the chisels will add approximately 4 seconds to the overall cycle time. Chisels automatically switch between pocket sizes so simply selecting chisels on or off is all that's required. Option CR: Counter Rotating RoutersThe standard 994X relies on automatic chip-out blocks clamped between door and jamb to protect the door face and jamb edges from chipping during hinge routing.  This option eliminates the chip-out blocks by adding four extra routers to the hinge detailing section with left hand rotation. As hinge pockets are routed, the left hand rotating routing tool is used to minimize chipping of the door face or jamb edge. This option is recommended for all applications including through cut hinge pockets, but cannot be combined with automatic hinge corner squaring (Option CH) due to space constraints imposed by hinge center distances. Option O: Door Blow-Off SystemAir blow-off tube cleans dust and chips from top of door as it feeds out of the 994-X. Option W: Hinge Stops for 6'8", 7'0" &amp; 8'0" DoorsThis option is limited to certain hinge pocket locations. Hinge location specifications need to be submitted in order to determine if they can be accommodated with the 994-X. Option Z: Screw-Changing Hopper for Six ShooterScrew-changing hopper for changing screw colors. Pre-Wiring and Tank Mounts for future hinge applicator optionsOption is used on a 990F-3 sold without hinge applicator, and includeswiring and plumbing and valve banks, for installation of a Six or Eight-Shooter add-on at a later date.</OrderComment>
+    <QuoteNum>20882</QuoteNum>
+    <OrderHeadComment>Contract ID: 6941</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>202-00</MachinePartNum>
+    <SerialNumber>SN17-202-009</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118035</JobNum>
+    <Description>COMMANDER-3</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108370</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-05-30T00:00:00</ShipDate>
+    <CustomerID>117</CustomerID>
+    <CustomerName>Brockway-Smith Co.-Portland</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20908</QuoteNum>
+    <OrderHeadComment>Contract ID:6972</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>201-00</MachinePartNum>
+    <SerialNumber>SN17-201-021</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118036</JobNum>
+    <Description>558: DOOR SIZER</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108371</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-05-30T00:00:00</ShipDate>
+    <CustomerID>117</CustomerID>
+    <CustomerName>Brockway-Smith Co.-Portland</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20904</QuoteNum>
+    <OrderHeadComment>Contract ID:6971</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>073-00</MachinePartNum>
+    <SerialNumber>SN17-73-070</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118037</JobNum>
+    <Description>700-DC: FRAME ASSEMBLY MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108372</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-05-30T00:00:00</ShipDate>
+    <CustomerID>117</CustomerID>
+    <CustomerName>Brockway-Smith Co.-Portland</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option D1: 6'6" to 8'0" Moving Head End
+Head end clamp assemblies with staple guns will be mounted on linear bearing shafts. Each head end clamp assembly will have stops for 6'6", 6'8", 7'0" &amp; 8'0" door units. The clamp assemblies will be held in position with pins that can be quickly removed without the aid of tools.
+  Price includes the installation on the right side of the 700-DC (When viewed from the in-feed end) a third Forward/Reverse foot switch, a 'Fire' switch for in-feed end staple guns, and a 'Reset' switch.</OrderComment>
+    <QuoteNum>20906</QuoteNum>
+    <OrderHeadComment>Contract ID:6973</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>156-00</MachinePartNum>
+    <SerialNumber>SN17-156-003</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118038</JobNum>
+    <Description>PS-300: END TRIM SCORING SAW</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108373</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-05-30T00:00:00</ShipDate>
+    <CustomerID>117</CustomerID>
+    <CustomerName>Brockway-Smith Co.-Portland</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option A: Adjustable Table for Doors with Proud Mouldings 
+This option upgrades the standard castor bed in-feed table to include a highly accurate CNC servo motor and ball screw system to adjust table height in programmable increments with a touch screen. Multiple heights are pre-programmed and selected via touch screen buttons. Adjustment time is less than 5 seconds. This option also includes replacing every fifth row of castors with a full width steel roll with a urethane cover. The rolls are mounted 1/32” below the castor wheel height. The combination of castors and rolls makes it easy to manipulate panel doors or doors with proud mouldings on the castor bed, as well as doors with narrow stiles that might otherwise fall between the castor gaps.
+The adjustable height feature is also ideal for doors with door lights installed, or doors with mouldings protruding up to 1” above the door face, and provides a good solution when the PS-300 is used in combination with a 558 Door sizer since doors with proud mouldings can be fed at the correct infeed height.</OrderComment>
+    <QuoteNum>20905</QuoteNum>
+    <OrderHeadComment>Contract ID: 6828</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>136-00</MachinePartNum>
+    <SerialNumber>SN17-136-021</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118049</JobNum>
+    <Description>ON-3D</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108368</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-07-13T00:00:00</ShipDate>
+    <CustomerID>2814</CustomerID>
+    <CustomerName>Magbee Contractors Supply</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option H:  Remote Switch for Manual Feed Through
+Allows doors to be fed manually from the end of the machine. Price includes a non marking plastic roll mounted in the guard.</OrderComment>
+    <QuoteNum>20890</QuoteNum>
+    <OrderHeadComment>Contract ID:6752</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>204-00</MachinePartNum>
+    <SerialNumber>SN17-204-022</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118050</JobNum>
+    <Description>994-X: SERVO CONTROLLED DOOR PRE HANGING MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108368</OrderNum>
+    <OrderLine>2</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-07-13T00:00:00</ShipDate>
+    <CustomerID>2814</CustomerID>
+    <CustomerName>Magbee Contractors Supply</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option A: Six-Shooter Screw Gun for 3-1/2" X 3-1/2" Hinge
+To attach 3-1/2" X 3-1/2" hinges to the door and jamb, No. 9 by 3/4" long flat head screws are automatically sorted and fed, six at a time, to the screw gun. Operator manually places the hinge onto the magnetic indexing fixture and then rolls and pivots the Six Shooter into an "H" block at each hinge location to attach the hinges. Pressing the 'Reset' switch then raises the Six Shooter and feeds a set of six screws for the attachment of the next hinge. 
+  NOTE: Requires Option D: Pre-Drill System for Six Shooter. 
+  
+  The Six Shooter, which is supported on ball bearing equipped steel wheels, is mounted on an overhead track that is precisely aligned to ensure the hinge is properly position into the pocket at each hinge location.
+  
+  NOTE: When an Eight Shooter Screw Gun is added to a 990F-3 (or 990F-4) equipped with a Six Shooter, the overhead track system must be extended in length on both ends to provide the necessary clearance for hinge applicator being used to travel the full length of the track to attach the hinges without  having to move the door and jamb.
+ 
+Option AC: Metal Door Sensing Proximity Switch
+Allows operator to do the edge prep on a steel door without accidentially doing a face bore into the door.
+ 
+Option BC: Ball Catch Drills
+Drill assemblies are mounted onto the lock boring section for drilling left hand and right hand doors for drive-in ball catches. When selected the proper drill automatically pivots in to drill into the top of the door. Note, minimum door width for drilling is 18".
+ 
+Option CR: Counter Rotating Routers
+The standard 994X relies on automatic chip-out blocks clamped between door and jamb to protect the door face and jamb edges from chipping during hinge routing.  This option eliminates the chip-out blocks by adding four extra routers to the hinge detailing section with left hand rotation. As hinge pockets are routed, the left hand rotating routing tool is used to minimize chipping of the door face or jamb edge. This option is recommended for all applications including through cut hinge pockets, but cannot be combined with automatic hinge corner squaring (Option CH) due to space constraints imposed by hinge center distances.
+ 
+Option E: Two-Stage Drilling
+Allows changeover for two different face bore sizes with a selection on the control panel. 
+  
+  Customer to specify 1-1/2" or 1-5/8" for dead bolt face bore when ordering. Standard lock boring bit is 2/1/8".
+ 
+Option IL: Door Hand Indicator Light
+Light will be mounted on the out-feed end of the 990-F4 that can be seen by the 700-C Assembly Table operator. The light will be on when the door in the 990-F4 is being machined as a right hand door and off for a left hand door.
+ 
+Option K: Eight-Shooter Screw Gun for 4" X 4" Hinge
+To attach 4" X 4" hinges to the door and jamb, No. 10 by 3/4" long flat head screws are automatically sorted and fed, eight (8) at a time, to the screw gun. Operator manually places the hinge onto the magnetic indexing fixture and then rolls and pivots the Eight Shooter into an "H" block at each hinge location to attach the hinges. Pressing the 'Reset' switch then raises the Eight Shooter and feeds a set of eight (8) screws for the attachment of the next hinge. 
+  NOTE: Requires Option K-1: Pre-Drill System for Eight Shooter.
+  
+  NOTE: The Eight Shooter will not feed No. 9 flat head screws properly. If No. 9 screws are to be used in the Eight Shooter it must be specified at time of order. 
+  
+  The Eight Shooter, which is supported on ball bearing equipped steel wheels, is mounted on an overhead track that is precisely aligned to ensure the hinge is properly positioned into the pocket at each hinge location. 
+  NOTE: When an Eight Shooter Screw Gun is added to the 994-X or 993-X equipped with a Six Shooter, the overhead track system must be extended in length on both ends to provide the necessary clearance for each hinge applicator to travel the full length of the
+ 
+Option O: Door Blow-Off System
+Air blow-off tube cleans dust and chips from top of door as it feeds out of the 994-X.
+ 
+Option R1:  Zero &amp; Three Degree Hinge Routing
+Price includes PLC logic and controls to allow front hinge routing section to rout on either a 0 degree or 3 degree angle. 
+  Hinges will be flush mounted when installed on doors with either square edge or 3 degree bevel on hinge side.
+ 
+Option Z: Screw-Changing Hopper for Six Shooter
+Screw-changing hopper for changing screw colors.
+ 
+Option Z1: Quick-Change Hopper for Eight Shooter
+Screw changing hopper for 8-Shooter allows for rapid change of screw colors.</OrderComment>
+    <QuoteNum>20890</QuoteNum>
+    <OrderHeadComment>Contract ID:6752</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>214-00</MachinePartNum>
+    <SerialNumber>SN17-214-002</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118051</JobNum>
+    <Description>AR-HQ2: DOOR TRANSFER AND ROTATE CONVEYOR</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108368</OrderNum>
+    <OrderLine>3</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-07-13T00:00:00</ShipDate>
+    <CustomerID>2814</CustomerID>
+    <CustomerName>Magbee Contractors Supply</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20890</QuoteNum>
+    <OrderHeadComment>Contract ID:6752</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>046-00</MachinePartNum>
+    <SerialNumber>SN17-46-427</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118052</JobNum>
+    <Description>700-C: FRAME ASSEMBLY MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108368</OrderNum>
+    <OrderLine>4</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-07-13T00:00:00</ShipDate>
+    <CustomerID>2814</CustomerID>
+    <CustomerName>Magbee Contractors Supply</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option C: Jamb Width Auto Selector
+Enables easy switching for jamb widths between 4-9/16 In, 5-1/4 In, 6-9/16 In, and 7-1/4 In.
+ 
+Option D: 7 Ft and 8 Ft Door Frame Capacity
+Allows operator to quickly adjust end clamps from 6 Ft 8 In to 7 Ft or 8 Ft doors.  Quick changeover time of approximately one minute required.</OrderComment>
+    <QuoteNum>20890</QuoteNum>
+    <OrderHeadComment>Contract ID:6752</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>024-00</MachinePartNum>
+    <SerialNumber>SN17-24-426</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118230</JobNum>
+    <Description>SL-1: STRAIGHT LIFT</Description>
+    <ProgramNum>NA</ProgramNum>
+    <ElecPrint>NA</ElecPrint>
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108646</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2016-12-29T00:00:00</ShipDate>
+    <CustomerID>2282</CustomerID>
+    <CustomerName>Strek-O Door</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>0</QuoteNum>
+    <OrderHeadComment>Contract ID: 6980</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>146-00</MachinePartNum>
+    <SerialNumber>SN17-146-050</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118313</JobNum>
+    <Description>979-2: MITER TRIM SAW</Description>
+    <ProgramNum>146-P6_1</ProgramNum>
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108757</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-04-05T00:00:00</ShipDate>
+    <CustomerID>2320</CustomerID>
+    <CustomerName>84 Lumber</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20954</QuoteNum>
+    <OrderHeadComment>Durham, North CarolinaContract ID: 6992</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>146-00</MachinePartNum>
+    <SerialNumber>SN17-146-051</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118317</JobNum>
+    <Description>979-2: MITER TRIM SAW</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108912</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-07-14T00:00:00</ShipDate>
+    <CustomerID>1447</CustomerID>
+    <CustomerName>Masonite International - Yulee</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20976</QuoteNum>
+    <OrderHeadComment>Contract ID: 6820</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>221-00</MachinePartNum>
+    <SerialNumber>SN17-221-003</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118345</JobNum>
+    <Description>RTS-FX</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108799</OrderNum>
+    <OrderLine>2</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-12-04T00:00:00</ShipDate>
+    <CustomerID>1540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Ohio</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20953</QuoteNum>
+    <OrderHeadComment>Contract ID: 6954</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>093-00</MachinePartNum>
+    <SerialNumber>SN17-93-024</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118346</JobNum>
+    <Description>990-FX: DOOR PRE HANGING MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108799</OrderNum>
+    <OrderLine>3</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-12-04T00:00:00</ShipDate>
+    <CustomerID>1540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Ohio</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option C: Pushbutton Selection for Face Bore Backsets
+For two face bore backsets between 2-3/8� and 2-3/4�. Manual adjustment takes 5 to 10 minutes.
+ 
+Option N: Dust Blow off System
+Air blow-off tube cleans dust and chips from the top of a door.
+ 
+Option T: High-Frequency Hinge Routers
+Three 1 HP 230/380v high-frequency hinge routers and drive units with 1/2" collet.
+ 
+Option U: High-Frequency Bolt Plate Router
+One 1 HP 230/380v high-frequency bolt plate router with drive unit and 1/2" collet.
+ 
+Option S: 6'8" and 7'0" Lock Postion Stops
+Air operated stops, on for left hand doors and one for right hand doors will be installed. The stops will be controlled by a valve mounted on the hinge side of the 990FX where the operator can reach it without leaving his work station. 
+NOTE: With this quick change option for the lock bore location only two locations for both right hand and left hand are allowed, and must be specified at the time the machine is ordered. 
+ 
+Dust Hoods Between Door &amp; Jamb
+Replaces standard chip-out block between door and jamb.
+ 
+Jamb Pushers
+Like the Shelby lines, the jamb indexing system must accommodate split jambs with a turret on the end pushers.
+ 
+Special Inputs and Programming for Download Control
+Special Inputs include:
+&gt;Face Bore (y,n)
+&gt; Face Bore (2-3/8, 2-3/4)
+&gt; Face Bore Depth (shallow, deep)
+&gt; Face Plate (y,n)
+&gt; Latch Bore (y,n)
+&gt; Pre-drill (y,n)
+&gt; Screwdriver (y,n)
+&gt; 2, or 3 hinges
+&gt; LH/RH
+&gt; 6’8” or 7’0” lock bore position
+ 
+Special Notes
+Jamb pusher and stop to be welded to the tube. Jamb positioning stop requires manual adjustment on existing lines for 7'0" jambs. It is too time consuming. A simple method with an over-ride switch or quick adjustment without tools is required on this line.</OrderComment>
+    <QuoteNum>20953</QuoteNum>
+    <OrderHeadComment>Contract ID: 6954</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>072-00</MachinePartNum>
+    <SerialNumber>SN17-72-006</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118347</JobNum>
+    <Description>JAMB TRANSFER</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108799</OrderNum>
+    <OrderLine>4</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-12-04T00:00:00</ShipDate>
+    <CustomerID>1540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Ohio</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20953</QuoteNum>
+    <OrderHeadComment>Contract ID: 6954</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>046-00</MachinePartNum>
+    <SerialNumber>SN17-46-428</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118348</JobNum>
+    <Description>700-C: FRAME ASSEMBLY MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108799</OrderNum>
+    <OrderLine>5</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-12-04T00:00:00</ShipDate>
+    <CustomerID>1540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Ohio</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option C: Jamb Width Auto Selector
+Enables easy switching for jamb widths between 4-9/16 In, 5-1/4 In, 6-9/16 In, and 7-1/4 In.
+ 
+Option G: 7 Ft Door Frame Capacity
+Allow Operator to quickly adjust end clamps from 6 Ft 8 Inch to 7 Ft doors.  Quick changeover time of approximately one minute required.
+ 
+Special Air and Conduit Connections 
+ 
+Switches and Inputs for the Following Functions
+84”-80” push up cylinder shift
+&gt; LH/RH&gt;
+Jamb Width and nail pattern (4-9/16, 5-1/8, 6-9/16)
+&gt; 4-9/16 split jamb nail pattern (new)
+ 
+Special 6'8" - 7'0" Auto &amp; Switch
+Cylinders and valves used to move the clamp cylinders rather than pin with drilled holes.</OrderComment>
+    <QuoteNum>20953</QuoteNum>
+    <OrderHeadComment>Contract ID: 6954</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>100-00</MachinePartNum>
+    <SerialNumber>SN17-100-014</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118349</JobNum>
+    <Description>DT-3</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108799</OrderNum>
+    <OrderLine>6</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-12-04T00:00:00</ShipDate>
+    <CustomerID>1540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Ohio</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Air and Electrical Conduit Connections
+ 
+Special Input Feature
+Rotate (y,n)</OrderComment>
+    <QuoteNum>20953</QuoteNum>
+    <OrderHeadComment>Contract ID: 6954</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>101-00</MachinePartNum>
+    <SerialNumber>SN17-101-004</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118351</JobNum>
+    <Description>CT-IT</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108799</OrderNum>
+    <OrderLine>7</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-12-04T00:00:00</ShipDate>
+    <CustomerID>1540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Ohio</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20953</QuoteNum>
+    <OrderHeadComment>Contract ID: 6954</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>102-00</MachinePartNum>
+    <SerialNumber>SN17-102-006</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118352</JobNum>
+    <Description>CT-1B</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108799</OrderNum>
+    <OrderLine>8</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-12-04T00:00:00</ShipDate>
+    <CustomerID>1540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Ohio</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20953</QuoteNum>
+    <OrderHeadComment>Contract ID: 6954</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>222-00</MachinePartNum>
+    <SerialNumber>SN17-222-003</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118353</JobNum>
+    <Description>BA-CT Invert Station</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108799</OrderNum>
+    <OrderLine>9</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-12-04T00:00:00</ShipDate>
+    <CustomerID>1540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Ohio</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Air and Electrical Connections</OrderComment>
+    <QuoteNum>20953</QuoteNum>
+    <OrderHeadComment>Contract ID: 6954</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>221-00</MachinePartNum>
+    <SerialNumber>SN17-221-004</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118354</JobNum>
+    <Description>RTS-FX</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108799</OrderNum>
+    <OrderLine>11</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-12-04T00:00:00</ShipDate>
+    <CustomerID>1540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Ohio</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20953</QuoteNum>
+    <OrderHeadComment>Contract ID: 6954</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>093-00</MachinePartNum>
+    <SerialNumber>SN17-93-025</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118355</JobNum>
+    <Description>990-FX: DOOR PRE HANGING MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108799</OrderNum>
+    <OrderLine>12</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-12-04T00:00:00</ShipDate>
+    <CustomerID>1540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Ohio</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option C: Pushbutton Selection for Face Bore Backsets
+For two face bore backsets between 2-3/8� and 2-3/4�. Manual adjustment takes 5 to 10 minutes.
+ 
+Option N: Dust Blow off System
+Air blow-off tube cleans dust and chips from the top of a door.
+ 
+Option T: High-Frequency Hinge Routers
+Three 1 HP 230/380v high-frequency hinge routers and drive units with 1/2" collet.
+ 
+Option U: High-Frequency Bolt Plate Router
+One 1 HP 230/380v high-frequency bolt plate router with drive unit and 1/2" collet.
+ 
+Option S: 6'8" and 7'0" Lock Postion Stops
+Air operated stops, on for left hand doors and one for right hand doors will be installed. The stops will be controlled by a valve mounted on the hinge side of the 990FX where the operator can reach it without leaving his work station. 
+NOTE: With this quick change option for the lock bore location only two locations for both right hand and left hand are allowed, and must be specified at the time the machine is ordered. 
+ 
+Dust Hoods Between Door &amp; Jamb
+Replaces standard chip-out block between door and jamb
+ 
+Jamb Pushers
+Like the Shelby lines, the jamb indexing system must accommodate split jambs with a turret on the end pushers.
+ 
+Special Inputs and Programming for Download Control
+Special Inputs include:
+&gt;Face Bore (y,n)
+&gt; Face Bore (2-3/8, 2-3/4)
+&gt; Face Bore Depth (shallow, deep)
+&gt; Face Plate (y,n)
+&gt; Latch Bore (y,n)
+&gt; Pre-drill (y,n)
+&gt; Screwdriver (y,n)
+&gt; 2, or 3 hinges
+&gt; LH/RH
+&gt; 6’8” or 7’0” lock bore position
+
+Special Notes:
+Jamb pusher and stop to be welded to the tube. Jamb positioning stop requires manual adjustment on existing lines for 7'0" jambs. It is too time consuming. A simple method with an over-ride switch or quick adjustment without tools is required on this line.
+ 
+Ball Catch Drills (Reverse Line Only)
+Drill assemblies are mounted onto the lock boring section for drilling left hand and right hand doors for drive-in ball catches. When selected the proper drill automatically pivots in to drill into the top of the door. Note: minimum door width is 18" for drilling. Automatic on/off and door hand can be manually selected and an extra input will be provided for automatic activation via Midwest control system.</OrderComment>
+    <QuoteNum>20953</QuoteNum>
+    <OrderHeadComment>Contract ID: 6954</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>072-00</MachinePartNum>
+    <SerialNumber>SN17-72-007</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118356</JobNum>
+    <Description>JAMB TRANSFER</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108799</OrderNum>
+    <OrderLine>13</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-12-04T00:00:00</ShipDate>
+    <CustomerID>1540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Ohio</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20953</QuoteNum>
+    <OrderHeadComment>Contract ID: 6954</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>046-00</MachinePartNum>
+    <SerialNumber>SN17-46-429</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118357</JobNum>
+    <Description>700-C: FRAME ASSEMBLY MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108799</OrderNum>
+    <OrderLine>14</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-12-04T00:00:00</ShipDate>
+    <CustomerID>1540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Ohio</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option C: Jamb Width Auto Selector
+Enables easy switching for jamb widths between 4-9/16 In, 5-1/4 In, 6-9/16 In, and 7-1/4 In.
+ 
+Option G: 7 Ft Door Frame Capacity
+Allow Operator to quickly adjust end clamps from 6 Ft 8 Inch to 7 Ft doors.  Quick changeover time of approximately one minute required.
+ 
+Special Air and Conduit Connections 
+ 
+Switches and Inputs for the Following Functions
+84”-80” push up cylinder shift
+&gt; LH/RH&gt;
+Jamb Width and nail pattern (4-9/16, 5-1/8, 6-9/16)
+&gt; 4-9/16 split jamb nail pattern (new)
+ 
+Special 6'8" - 7'0" Auto &amp; Switch
+Cylinders and valves used to move the clamp cylinders rather than pin with drilled holes</OrderComment>
+    <QuoteNum>20953</QuoteNum>
+    <OrderHeadComment>Contract ID: 6954</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>100-00</MachinePartNum>
+    <SerialNumber>SN17-100-015</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118358</JobNum>
+    <Description>DT-3</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108799</OrderNum>
+    <OrderLine>15</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-12-04T00:00:00</ShipDate>
+    <CustomerID>1540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Ohio</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Air and Electrical Conduit Connections
+ 
+Special Input Feature
+Rotate (y,n)</OrderComment>
+    <QuoteNum>20953</QuoteNum>
+    <OrderHeadComment>Contract ID: 6954</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>101-00</MachinePartNum>
+    <SerialNumber>SN17-101-005</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118359</JobNum>
+    <Description>CT-IT</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108799</OrderNum>
+    <OrderLine>16</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-12-04T00:00:00</ShipDate>
+    <CustomerID>1540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Ohio</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20953</QuoteNum>
+    <OrderHeadComment>Contract ID: 6954</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>102-00</MachinePartNum>
+    <SerialNumber>SN17-102-007</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118360</JobNum>
+    <Description>CT-1B</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108799</OrderNum>
+    <OrderLine>17</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-12-04T00:00:00</ShipDate>
+    <CustomerID>1540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Ohio</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20953</QuoteNum>
+    <OrderHeadComment>Contract ID: 6954</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>222-00</MachinePartNum>
+    <SerialNumber>SN17-222-004</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118361</JobNum>
+    <Description>BA-CT Invert Station</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108799</OrderNum>
+    <OrderLine>18</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-12-04T00:00:00</ShipDate>
+    <CustomerID>1540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Ohio</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Air and Electrical Connections</OrderComment>
+    <QuoteNum>20953</QuoteNum>
+    <OrderHeadComment>Contract ID: 6954</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>065-00</MachinePartNum>
+    <SerialNumber>SN17-65-364</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118362</JobNum>
+    <Description>960-3: AUTOMATIC STRIKE ROUTING MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108799</OrderNum>
+    <OrderLine>19</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-12-04T00:00:00</ShipDate>
+    <CustomerID>1540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Ohio</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option D: Additional Mechanisms and Machine Logic
+For processing either full-lip strike or closed deadbolt plates. Typically, photo eyes are affixed to jamb reference guides at the end of the machine, so plate style is automatically detected depending on jamb position. Important: Plates must be the same size with identical plunge profiles.
+ 
+Option O: High-Frequency Router
+2HP high-frequency router motor with drive.
+ 
+Special Sound Enclosure</OrderComment>
+    <QuoteNum>20953</QuoteNum>
+    <OrderHeadComment>Contract ID: 6954</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>064-00</MachinePartNum>
+    <SerialNumber>SN17-64-176</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118363</JobNum>
+    <Description>920-C: STRIKE JAMB ROUTING MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108799</OrderNum>
+    <OrderLine>20</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-12-04T00:00:00</ShipDate>
+    <CustomerID>1540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Ohio</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option B: Extra End Stops
+Two extra end stops for deadbolts.
+ 
+Option C: Common Routing Single Template Patterns
+For full-lip, T-strike, etc. Price is for each template.</OrderComment>
+    <QuoteNum>20953</QuoteNum>
+    <OrderHeadComment>Contract ID: 6954</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>146-00</MachinePartNum>
+    <SerialNumber>SN17-146-052</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118364</JobNum>
+    <Description>979-2: MITER TRIM SAW</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108799</OrderNum>
+    <OrderLine>21</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-12-04T00:00:00</ShipDate>
+    <CustomerID>1540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Ohio</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Special Miter Feature for Jamb Stops
+This is the jamb stop on edge and return back to operator option</OrderComment>
+    <QuoteNum>20953</QuoteNum>
+    <OrderHeadComment>Contract ID: 6954</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>222-00</MachinePartNum>
+    <SerialNumber>SN17-222-001</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118384</JobNum>
+    <Description>BA-CT Invert Station</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108826</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-05-30T00:00:00</ShipDate>
+    <CustomerID>540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Eau Claire</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20967</QuoteNum>
+    <OrderHeadComment>Contract ID: 6979</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>222-00</MachinePartNum>
+    <SerialNumber>SN17-222-002</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118385</JobNum>
+    <Description>BA-CT Invert Station</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108826</OrderNum>
+    <OrderLine>2</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-05-30T00:00:00</ShipDate>
+    <CustomerID>540</CustomerID>
+    <CustomerName>Midwest Manufacturing - Eau Claire</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20967</QuoteNum>
+    <OrderHeadComment>Contract ID: 6979</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>223-00</MachinePartNum>
+    <SerialNumber>SN17-223-001</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118418</JobNum>
+    <Description>SLX</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108856</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-05-30T00:00:00</ShipDate>
+    <CustomerID>117</CustomerID>
+    <CustomerName>Brockway-Smith Co.-Portland</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20969</QuoteNum>
+    <OrderHeadComment>Contract ID: 6981</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>205-00</MachinePartNum>
+    <SerialNumber>SN17-205-006</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118419</JobNum>
+    <Description>ACRO-HD</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108857</OrderNum>
+    <OrderLine>1</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-05-30T00:00:00</ShipDate>
+    <CustomerID>117</CustomerID>
+    <CustomerName>Brockway-Smith Co.-Portland</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Special Spin Disk:
+This is a no cost option to replace the standard door light install lift table, with a spin disk. The control is the same. Press a pedal to lift the spin disk, raising the door off the support wheels so it can rotate freely by hand, then lower again to the wheels. Please note that all right hand doors need rotation to sill end first orientation after the Commander 3.</OrderComment>
+    <QuoteNum>20970</QuoteNum>
+    <OrderHeadComment />
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>058-00</MachinePartNum>
+    <SerialNumber>SN17-58-108</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118466</JobNum>
+    <Description>ACRO: METAL DOOR MACHINE</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108912</OrderNum>
+    <OrderLine>2</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-07-14T00:00:00</ShipDate>
+    <CustomerID>1447</CustomerID>
+    <CustomerName>Masonite International - Yulee</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment />
+    <QuoteNum>20976</QuoteNum>
+    <OrderHeadComment>Contract ID: 6820</OrderHeadComment>
+  </MachineInfo>
+  <MachineInfo>
+    <MachinePartNum>045-00</MachinePartNum>
+    <SerialNumber>SN17-45-140</SerialNumber>
+    <MachineStatus>WIP</MachineStatus>
+    <JobNum>118467</JobNum>
+    <Description>ACROBAT</Description>
+    <ProgramNum />
+    <ElecPrint />
+    <SinglePHVolt>0</SinglePHVolt>
+    <SinglePHAmp>0.00</SinglePHAmp>
+    <ThreePHVolt>0</ThreePHVolt>
+    <ThreePHAmp>0.00</ThreePHAmp>
+    <Notes />
+    <WarrantyExpDate xsi:nil="true" />
+    <OrderNum>108912</OrderNum>
+    <OrderLine>3</OrderLine>
+    <ProdQty>1.00000000</ProdQty>
+    <ShipDate>2017-07-14T00:00:00</ShipDate>
+    <CustomerID>1447</CustomerID>
+    <CustomerName>Masonite International - Yulee</CustomerName>
+    <AirPrint />
+    <CFM />
+    <LineID />
+    <OrderComment>Option A: Adjustable Sill Corner Supports and End Clamps
+For 6’8” and 8’0" doors. Standard machine accommodates 6’8” doors.
+ 
+Option B: Outswing Door Support
+Rollers and Delrin rails pivot up in seconds to transport inverted door frames from the light install station to the pivot table. Standard Acrobat requires outswings to be lifted and carried between stations.</OrderComment>
+    <QuoteNum>20976</QuoteNum>
+    <OrderHeadComment>Contract ID: 6820</OrderHeadComment>
+  </MachineInfo>
+</ArrayOfMachineInfo>

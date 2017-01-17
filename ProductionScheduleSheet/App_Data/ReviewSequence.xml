@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BaseSelection  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SelectItems>
+    <SelectItem id="0">
+      <Value>0-unreviewed</Value>
+    </SelectItem>
+    <SelectItem id="1">
+      <Value>1-Standard</Value>
+    </SelectItem>
+    <SelectItem id="2">
+      <Value>2-Custom</Value>
+    </SelectItem>
+  </SelectItems>
+</BaseSelection>

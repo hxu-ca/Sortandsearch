@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MachineInfoModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'ERP10PROD.dbo.MachineInfo' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="MachineInfo">
+    <Key>
+      <PropertyRef Name="MachinePartNum" />
+      <PropertyRef Name="SerialNumber" />
+      <PropertyRef Name="MachineStatus" />
+      <PropertyRef Name="JobNum" />
+      <PropertyRef Name="Description" />
+      <PropertyRef Name="ProgramNum" />
+      <PropertyRef Name="ElecPrint" />
+      <PropertyRef Name="SinglePHVolt" />
+      <PropertyRef Name="SinglePHAmp" />
+      <PropertyRef Name="ThreePHVolt" />
+      <PropertyRef Name="ThreePHAmp" />
+      <PropertyRef Name="Notes" />
+      <PropertyRef Name="AirPrint" />
+      <PropertyRef Name="CFM" />
+      <PropertyRef Name="LineID" />
+    </Key>
+    <Property Name="MachinePartNum" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="SerialNumber" Type="nvarchar" MaxLength="40" Nullable="false" />
+    <Property Name="MachineStatus" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="JobNum" Type="nvarchar" MaxLength="14" Nullable="false" />
+    <Property Name="Description" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="ProgramNum" Type="nvarchar" MaxLength="64" Nullable="false" />
+    <Property Name="ElecPrint" Type="nvarchar" MaxLength="64" Nullable="false" />
+    <Property Name="SinglePHVolt" Type="int" Nullable="false" />
+    <Property Name="SinglePHAmp" Type="decimal" Precision="12" Scale="2" Nullable="false" />
+    <Property Name="ThreePHVolt" Type="int" Nullable="false" />
+    <Property Name="ThreePHAmp" Type="decimal" Precision="12" Scale="2" Nullable="false" />
+    <Property Name="Notes" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="WarrantyExpDate" Type="date" />
+    <Property Name="OrderNum" Type="int" />
+    <Property Name="OrderLine" Type="int" />
+    <Property Name="ProdQty" Type="decimal" Precision="22" Scale="8" />
+    <Property Name="ShipDate" Type="date" />
+    <Property Name="CustomerID" Type="nvarchar" MaxLength="10" />
+    <Property Name="CustomerName" Type="nvarchar" MaxLength="50" />
+    <Property Name="ShipToCustomerID" Type="nvarchar" MaxLength="10" />
+    <Property Name="ShipToCustomerName" Type="nvarchar" MaxLength="50" />
+    <Property Name="AirPrint" Type="nvarchar" MaxLength="32" Nullable="false" />
+    <Property Name="CFM" Type="nvarchar" MaxLength="32" Nullable="false" />
+    <Property Name="LineID" Type="nvarchar" MaxLength="32" Nullable="false" />
+    <Property Name="OrderComment" Type="nvarchar(max)" />
+    <Property Name="QuoteNum" Type="int" />
+    <Property Name="OrderHeadComment" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityContainer Name="MachineInfoModelStoreContainer">
+    <EntitySet Name="MachineInfo" EntityType="Self.MachineInfo" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [MachineInfo].[MachinePartNum] AS [MachinePartNum], 
+    [MachineInfo].[SerialNumber] AS [SerialNumber], 
+    [MachineInfo].[MachineStatus] AS [MachineStatus], 
+    [MachineInfo].[JobNum] AS [JobNum], 
+    [MachineInfo].[Description] AS [Description], 
+    [MachineInfo].[ProgramNum] AS [ProgramNum], 
+    [MachineInfo].[ElecPrint] AS [ElecPrint], 
+    [MachineInfo].[SinglePHVolt] AS [SinglePHVolt], 
+    [MachineInfo].[SinglePHAmp] AS [SinglePHAmp], 
+    [MachineInfo].[ThreePHVolt] AS [ThreePHVolt], 
+    [MachineInfo].[ThreePHAmp] AS [ThreePHAmp], 
+    [MachineInfo].[Notes] AS [Notes], 
+    [MachineInfo].[WarrantyExpDate] AS [WarrantyExpDate], 
+    [MachineInfo].[OrderNum] AS [OrderNum], 
+    [MachineInfo].[OrderLine] AS [OrderLine], 
+    [MachineInfo].[ProdQty] AS [ProdQty], 
+    [MachineInfo].[ShipDate] AS [ShipDate], 
+    [MachineInfo].[CustomerID] AS [CustomerID], 
+    [MachineInfo].[CustomerName] AS [CustomerName], 
+    [MachineInfo].[ShipToCustomerID] AS [ShipToCustomerID], 
+    [MachineInfo].[ShipToCustomerName] AS [ShipToCustomerName], 
+    [MachineInfo].[AirPrint] AS [AirPrint], 
+    [MachineInfo].[CFM] AS [CFM], 
+    [MachineInfo].[LineID] AS [LineID], 
+    [MachineInfo].[OrderComment] AS [OrderComment], 
+    [MachineInfo].[QuoteNum] AS [QuoteNum], 
+    [MachineInfo].[OrderHeadComment] AS [OrderHeadComment]
+    FROM [dbo].[MachineInfo] AS [MachineInfo]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

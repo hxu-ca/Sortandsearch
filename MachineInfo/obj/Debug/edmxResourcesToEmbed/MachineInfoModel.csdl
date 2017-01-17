@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MachineInfoModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="MachineInfo">
+    <Key>
+      <PropertyRef Name="MachinePartNum" />
+      <PropertyRef Name="SerialNumber" />
+      <PropertyRef Name="MachineStatus" />
+      <PropertyRef Name="JobNum" />
+      <PropertyRef Name="Description" />
+      <PropertyRef Name="ProgramNum" />
+      <PropertyRef Name="ElecPrint" />
+      <PropertyRef Name="SinglePHVolt" />
+      <PropertyRef Name="SinglePHAmp" />
+      <PropertyRef Name="ThreePHVolt" />
+      <PropertyRef Name="ThreePHAmp" />
+      <PropertyRef Name="Notes" />
+      <PropertyRef Name="AirPrint" />
+      <PropertyRef Name="CFM" />
+      <PropertyRef Name="LineID" />
+    </Key>
+    <Property Name="MachinePartNum" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SerialNumber" Type="String" MaxLength="40" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MachineStatus" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="JobNum" Type="String" MaxLength="14" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ProgramNum" Type="String" MaxLength="64" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ElecPrint" Type="String" MaxLength="64" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SinglePHVolt" Type="Int32" Nullable="false" />
+    <Property Name="SinglePHAmp" Type="Decimal" Precision="12" Scale="2" Nullable="false" />
+    <Property Name="ThreePHVolt" Type="Int32" Nullable="false" />
+    <Property Name="ThreePHAmp" Type="Decimal" Precision="12" Scale="2" Nullable="false" />
+    <Property Name="Notes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="WarrantyExpDate" Type="DateTime" Precision="0" />
+    <Property Name="OrderNum" Type="Int32" />
+    <Property Name="OrderLine" Type="Int32" />
+    <Property Name="ProdQty" Type="Decimal" Precision="22" Scale="8" />
+    <Property Name="ShipDate" Type="DateTime" Precision="0" />
+    <Property Name="CustomerID" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="CustomerName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ShipToCustomerID" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="ShipToCustomerName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="AirPrint" Type="String" MaxLength="32" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CFM" Type="String" MaxLength="32" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LineID" Type="String" MaxLength="32" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="OrderComment" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="QuoteNum" Type="Int32" />
+    <Property Name="OrderHeadComment" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="ProductEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="MachineInfoes" EntityType="Self.MachineInfo" />
+  </EntityContainer>
+</Schema>

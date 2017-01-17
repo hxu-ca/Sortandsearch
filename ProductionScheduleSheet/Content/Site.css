@@ -1,0 +1,138 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+.scroll{
+    overflow:scroll;
+}
+#sheets-viewport.widget-viewport{
+    position:relative;
+    /*overflow:hidden;*/
+    /*overflow:scroll;*/
+}
+.grid-container {
+    overflow: auto;
+    background: white;
+    z-index: 0;
+    width:1433px;
+    height:700px;
+}
+.waffle, .grid-fixed-table {
+    font-size: 13px;
+    table-layout: fixed;
+    border-collapse: separate;
+    border-style: none;
+    border-spacing: 0;
+    width: 100%;
+    cursor: default;
+}
+
+td.header-shim, th.header-shim {
+    border-width: 0 1px 0 0;
+    height: 0;
+    margin: 0;
+}
+th.row-header-shim, td.row-header-shim {
+    width: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+th.row-header {
+    background-color: #eee;
+    width: 45px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 8pt;
+    color: #333;
+    line-height: inherit;
+    overflow: hidden;
+    /*overflow:scroll;*/
+}
+.waffle th, .grid-fixed-table th {
+    font-weight: normal;
+    background: transparent;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 8pt;
+    color: #222;
+    height: 23px;
+    border: solid 1px #ccc;
+    border-width: 0 1px 1px 0;
+    overflow: auto;
+    padding: 0;
+}
+.freezebar-vertical-handle {
+    width: 4px;
+}
+.ritz .waffle .s0 {
+    border-right: none;
+    background-color: #5b9bd5;
+    text-align: center;
+    color: #fff;
+    font-family: 'Calibri',Arial;
+    font-size: 11pt;
+    vertical-align: bottom;
+    white-space: nowrap;
+    direction: ltr;
+    padding: 2px 3px 2px 3px;
+}
+.ritz .waffle .s1 {
+    border-left: none;
+    background-color: #5b9bd5;
+    text-align: center;
+    color: #fff;
+    font-family: 'Calibri',Arial;
+    font-size: 11pt;
+    vertical-align: bottom;
+    white-space: nowrap;
+    direction: ltr;
+    padding: 2px 3px 2px 3px;
+}
+.ritz .waffle .s2 {
+    background-color: #5b9bd5;
+    text-align: left;
+    color: #fff;
+    font-family: 'Calibri',Arial;
+    font-size: 11pt;
+    vertical-align: bottom;
+    white-space: nowrap;
+    direction: ltr;
+    padding: 2px 3px 2px 3px;
+}
+.selectedR {
+    background:yellow;
+    border:1px solid;
+}
+body {
+  -webkit-print-color-adjust: exact;
+}
+.start-bg {
+    background-color: #f4c7c3 !important;
+}
+.run-bg  {
+    background-color: #fce8b2 !important;
+}
+.complete-bg  {
+    background-color: #b7e1cd !important;
+}
